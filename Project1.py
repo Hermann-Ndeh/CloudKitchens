@@ -9,6 +9,8 @@ from tabulate import tabulate
 from scipy.spatial.distance import euclidean
 from pulp import *
 from scipy.sparse import *
+from math import radians, sin, cos, sqrt, atan2
+
 
 """
 To run make sure all dependencies imported above are installed
@@ -269,8 +271,30 @@ def distance(cloudKitchens, serviceStations):
     distanceMatrix = np.zeros((numkitchens, numStations))
     for i in range(numkitchens):
         for j in range(numStations):
-            distanceMatrix[i, j] = euclidean(cloudKitchens[i]['Coordinates'], serviceStations[j]['Coordinates'])
+            distanceMatrix[i, j] = haversine(cloudKitchens[i]['Coordinates'], serviceStations[j]['Coordinates'])
     return distanceMatrix
+
+def haversine(coordinate1, coordinate2):
+    """
+    The haversine function calculates the distance between two coordinates on Earth using the haversine
+    formula.
+    
+    :param coordinate1: The coordinate1 parameter represents the latitude and longitude of the first
+    point. It should be a tuple or list containing two values: the latitude in degrees and the longitude
+    in degrees
+    :param coordinate2: The `coordinate2` parameter is the second set of coordinates (latitude and
+    longitude) that you want to calculate the distance to from `coordinate1`
+    :return: the distance between two coordinates in miles.
+    """
+    latitude1, longitude1 = map(radians, coordinate1)
+    latitude2, longitude2 = map(radians, coordinate2)
+
+    deltaLong = longitude2 - longitude1
+    deltaLat = latitude2 - latitude1
+    squaredHalfChord = sin(deltaLat / 2) ** 2 + cos(latitude1) * cos(latitude2) * sin(deltaLong / 2) ** 2
+    angularDist = 2 * atan2(sqrt(squaredHalfChord), sqrt(1 - squaredHalfChord))
+    distance = EARTH_RADIUS_IN_MILES * angularDist
+    return distance
 
 def taskII(distanceMatrix):
     """
