@@ -81,6252 +81,6252 @@ COLUMNS
     MARK      'MARKER'                 'INTORG'
     zij_0_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_0_0   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_0   OBJ        5.367131894271e+00
+    zij_0_0   OBJ        7.405913717047e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_0_1   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_1   OBJ        3.714685253769e+00
+    zij_0_1   OBJ        3.838592209254e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_0_10  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_10  OBJ        2.536993351018e+00
+    zij_0_10  OBJ        1.524070660559e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_0_11  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_11  OBJ        1.500798583222e+00
+    zij_0_11  OBJ        1.155200059291e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_0_12  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_12  OBJ        4.227984523988e+00
+    zij_0_12  OBJ        7.676837398343e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_0_13  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_13  OBJ        3.166416413919e+00
+    zij_0_13  OBJ        3.690427663444e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_0_14  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_14  OBJ        1.079119550693e+00
+    zij_0_14  OBJ        7.341592291559e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_0_15  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_15  OBJ        4.810047005433e+00
+    zij_0_15  OBJ        8.224648874901e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_0_16  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_16  OBJ        6.440391304009e+00
+    zij_0_16  OBJ        2.407143492355e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_0_17  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_17  OBJ        9.880216351339e-01
+    zij_0_17  OBJ        1.325528079218e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_0_18  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_18  OBJ        3.483448450998e+00
+    zij_0_18  OBJ        6.589836532478e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_0_19  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_19  OBJ        2.660312016650e+00
+    zij_0_19  OBJ        1.631265656285e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_0_2   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_2   OBJ        2.053164486571e+00
+    zij_0_2   OBJ        3.777722589409e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_0_20  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_20  OBJ        6.871987846188e+00
+    zij_0_20  OBJ        2.843581964971e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_0_21  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_21  OBJ        1.663198451982e+00
+    zij_0_21  OBJ        2.669532405755e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_0_22  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_22  OBJ        3.549743636519e+00
+    zij_0_22  OBJ        5.391176251303e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_0_23  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_23  OBJ        7.746271485642e+00
+    zij_0_23  OBJ        7.438948518960e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_0_24  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_24  OBJ        3.971497751637e+00
+    zij_0_24  OBJ        3.245442898090e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_0_25  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_25  OBJ        3.541094021380e+00
+    zij_0_25  OBJ        1.792374251224e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_0_26  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_26  OBJ        4.571674458516e+00
+    zij_0_26  OBJ        4.069881264877e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_0_27  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_27  OBJ        3.525749211682e+00
+    zij_0_27  OBJ        3.158445088937e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_0_28  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_28  OBJ        3.527922906395e+00
+    zij_0_28  OBJ        2.381741911789e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_0_29  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_29  OBJ        4.541010719742e+00
+    zij_0_29  OBJ        4.257428517233e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_0_3   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_3   OBJ        7.174676114062e+00
+    zij_0_3   OBJ        2.933182628989e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_0_30  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_30  OBJ        4.015607858205e+00
+    zij_0_30  OBJ        1.786181371334e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_0_31  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_31  OBJ        2.199538881966e+00
+    zij_0_31  OBJ        1.999659228187e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_0_32  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_32  OBJ        4.747923780429e+00
+    zij_0_32  OBJ        3.094672019624e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_0_33  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_33  OBJ        3.581276504161e+00
+    zij_0_33  OBJ        2.438930321407e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_0_34  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_34  OBJ        4.145154867864e+00
+    zij_0_34  OBJ        2.809408710750e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_0_35  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_35  OBJ        4.012594162942e-01
+    zij_0_35  OBJ        1.703097240520e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_0_36  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_36  OBJ        4.012930296413e+00
+    zij_0_36  OBJ        5.485843217716e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_0_37  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_37  OBJ        2.559651228384e+00
+    zij_0_37  OBJ        1.765655883163e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_0_38  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_38  OBJ        2.608522970183e+00
+    zij_0_38  OBJ        4.532437303167e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_0_39  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_39  OBJ        4.826108307225e+00
+    zij_0_39  OBJ        7.369193954505e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_0_4   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_4   OBJ        2.525851987787e+00
+    zij_0_4   OBJ        4.916854933395e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_0_40  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_40  OBJ        6.887550103508e+00
+    zij_0_40  OBJ        2.940923021661e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_0_41  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_41  OBJ        6.716770978891e+00
+    zij_0_41  OBJ        2.815967913849e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_0_42  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_42  OBJ        2.828272718568e+00
+    zij_0_42  OBJ        4.919156571235e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_0_43  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_43  OBJ        4.773399962665e+00
+    zij_0_43  OBJ        1.236305505500e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_0_44  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_44  OBJ        6.753900155703e+00
+    zij_0_44  OBJ        1.261669321059e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_0_45  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_45  OBJ        4.253683319029e+00
+    zij_0_45  OBJ        6.333443689311e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_0_46  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_46  OBJ        5.112523472466e+00
+    zij_0_46  OBJ        2.020151865332e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_0_47  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_47  OBJ        3.156423177533e+00
+    zij_0_47  OBJ        4.903178581580e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_0_48  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_48  OBJ        5.983491505074e+00
+    zij_0_48  OBJ        2.537467569624e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_0_49  Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_49  OBJ        8.239648081066e+00
+    zij_0_49  OBJ        1.704292775698e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_0_5   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_5   OBJ        3.259632716014e+00
+    zij_0_5   OBJ        1.092197756500e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_0_6   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_6   OBJ        3.853139992704e+00
+    zij_0_6   OBJ        1.937149863793e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_0_7   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_7   OBJ        6.200526372847e+00
+    zij_0_7   OBJ        8.010724073758e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_0_8   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_8   OBJ        7.999787863877e+00
+    zij_0_8   OBJ        7.728693085981e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_0_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_0_9   Deliver_from_cloud_kitchen_0_to_two_service_stations   1.000000000000e+00
-    zij_0_9   OBJ        3.986182199213e+00
+    zij_0_9   OBJ        3.481728810309e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_10_0  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_0  OBJ        3.082694149126e+00
+    zij_10_0  OBJ        5.801419657929e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_10_1  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_1  OBJ        1.205725890521e+00
+    zij_10_1  OBJ        4.134311491464e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_10_10  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_10  OBJ        4.601401375091e-01
+    zij_10_10  OBJ        2.314116713076e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_10_11  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_11  OBJ        2.079213022668e+00
+    zij_10_11  OBJ        2.528825535578e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_10_12  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_12  OBJ        1.871362512999e+00
+    zij_10_12  OBJ        5.460117932509e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_10_13  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_13  OBJ        4.481010402935e+00
+    zij_10_13  OBJ        4.691255129674e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_10_14  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_14  OBJ        2.063908264712e+00
+    zij_10_14  OBJ        5.260199278830e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_10_15  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_15  OBJ        5.132734077872e+00
+    zij_10_15  OBJ        6.169835271906e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_10_16  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_16  OBJ        4.434609767647e+00
+    zij_10_16  OBJ        1.600660640110e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_10_17  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_17  OBJ        3.158720654611e+00
+    zij_10_17  OBJ        1.402252353140e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_10_18  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_18  OBJ        1.453040077438e+00
+    zij_10_18  OBJ        5.311583061412e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_10_19  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_19  OBJ        1.150158917166e+00
+    zij_10_19  OBJ        1.120634520493e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_10_2  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_2  OBJ        3.416741501994e+00
+    zij_10_2  OBJ        1.269067162285e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_10_20  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_20  OBJ        6.013805310550e+00
+    zij_10_20  OBJ        1.634327299651e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_10_21  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_21  OBJ        1.107767133302e+00
+    zij_10_21  OBJ        2.241693891983e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_10_22  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_22  OBJ        4.452931403954e+00
+    zij_10_22  OBJ        2.208311343524e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_10_23  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_23  OBJ        6.267303858894e+00
+    zij_10_23  OBJ        6.079106674811e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_10_24  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_24  OBJ        3.274144957467e+00
+    zij_10_24  OBJ        3.257610729079e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_10_25  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_25  OBJ        3.613314161241e+00
+    zij_10_25  OBJ        3.566895257457e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_10_26  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_26  OBJ        2.505877791358e+00
+    zij_10_26  OBJ        3.370917915367e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_10_27  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_27  OBJ        3.198920413654e+00
+    zij_10_27  OBJ        4.351455490148e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_10_28  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_28  OBJ        5.061022043282e+00
+    zij_10_28  OBJ        3.386340689749e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_10_29  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_29  OBJ        4.675241002559e+00
+    zij_10_29  OBJ        2.294048465216e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_10_3  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_3  OBJ        5.842030206195e+00
+    zij_10_3  OBJ        3.704603060411e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_10_30  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_30  OBJ        3.953950025161e+00
+    zij_10_30  OBJ        2.584924488629e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_10_31  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_31  OBJ        3.901720702889e+00
+    zij_10_31  OBJ        7.844870791557e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_10_32  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_32  OBJ        4.763385845985e+00
+    zij_10_32  OBJ        9.204752902138e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_10_33  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_33  OBJ        4.404185908646e+00
+    zij_10_33  OBJ        1.159921577592e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_10_34  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_34  OBJ        2.484145564616e+00
+    zij_10_34  OBJ        3.230039670510e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_10_35  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_35  OBJ        2.475372321727e+00
+    zij_10_35  OBJ        3.732826430377e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_10_36  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_36  OBJ        2.250212260629e+00
+    zij_10_36  OBJ        3.660026497750e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_10_37  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_37  OBJ        2.333522921839e-01
+    zij_10_37  OBJ        9.834464430353e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_10_38  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_38  OBJ        5.682860360652e-01
+    zij_10_38  OBJ        3.965410751049e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_10_39  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_39  OBJ        4.102407271361e+00
+    zij_10_39  OBJ        6.309492217892e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_10_4  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_4  OBJ        8.649010674980e-01
+    zij_10_4  OBJ        5.002301810172e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_10_40  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_40  OBJ        4.570544954232e+00
+    zij_10_40  OBJ        4.128109882112e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_10_41  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_41  OBJ        5.142356536293e+00
+    zij_10_41  OBJ        3.202581094682e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_10_42  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_42  OBJ        1.089849406842e+00
+    zij_10_42  OBJ        4.195903078905e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_10_43  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_43  OBJ        4.345894386757e+00
+    zij_10_43  OBJ        2.167758859560e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_10_44  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_44  OBJ        5.885522099824e+00
+    zij_10_44  OBJ        2.574477964232e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_10_45  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_45  OBJ        3.461086301016e+00
+    zij_10_45  OBJ        5.087353315767e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_10_46  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_46  OBJ        3.916173934370e+00
+    zij_10_46  OBJ        2.536931840279e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_10_47  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_47  OBJ        1.695890648221e+00
+    zij_10_47  OBJ        2.469486821376e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_10_48  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_48  OBJ        4.250692408733e+00
+    zij_10_48  OBJ        3.847321930670e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_10_49  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_49  OBJ        6.318161241970e+00
+    zij_10_49  OBJ        1.101483301352e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_10_5  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_5  OBJ        7.168418698831e-01
+    zij_10_5  OBJ        2.249193006737e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_10_6  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_6  OBJ        2.575342712814e+00
+    zij_10_6  OBJ        7.815477243734e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_10_7  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_7  OBJ        4.309643578176e+00
+    zij_10_7  OBJ        2.184797626101e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_10_8  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_8  OBJ        6.167193787073e+00
+    zij_10_8  OBJ        5.926871027143e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_10_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_10_9  Deliver_from_cloud_kitchen_10_to_two_service_stations   1.000000000000e+00
-    zij_10_9  OBJ        1.743461577140e+00
+    zij_10_9  OBJ        7.939744269846e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_11_0  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_0  OBJ        8.573513464957e-01
+    zij_11_0  OBJ        3.291086217028e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_11_1  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_1  OBJ        2.970360401503e+00
+    zij_11_1  OBJ        6.659014214204e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_11_10  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_10  OBJ        2.992787049734e+00
+    zij_11_10  OBJ        4.741357701108e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_11_11  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_11  OBJ        3.238688180327e+00
+    zij_11_11  OBJ        4.853339019784e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_11_12  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_12  OBJ        7.951959968645e-01
+    zij_11_12  OBJ        3.088932050076e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_11_13  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_13  OBJ        6.967176889753e+00
+    zij_11_13  OBJ        7.214745589439e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_11_14  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_14  OBJ        3.558492963251e+00
+    zij_11_14  OBJ        2.791585114479e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_11_15  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_15  OBJ        7.643077607302e+00
+    zij_11_15  OBJ        3.696097703136e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_11_16  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_16  OBJ        1.922843931169e+00
+    zij_11_16  OBJ        2.228628669435e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_11_17  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_17  OBJ        5.339548464303e+00
+    zij_11_17  OBJ        3.406166520534e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_11_18  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_18  OBJ        3.623314985150e+00
+    zij_11_18  OBJ        2.961573457241e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_11_19  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_19  OBJ        1.939740083773e+00
+    zij_11_19  OBJ        3.396626674898e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_11_2  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_2  OBJ        5.850828608069e+00
+    zij_11_2  OBJ        1.384789814332e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_11_20  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_20  OBJ        3.879501064062e+00
+    zij_11_20  OBJ        1.788029207683e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_11_21  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_21  OBJ        3.415553053257e+00
+    zij_11_21  OBJ        2.311993237848e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_11_22  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_22  OBJ        6.979703112879e+00
+    zij_11_22  OBJ        4.227706542440e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_11_23  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_23  OBJ        3.782943511163e+00
+    zij_11_23  OBJ        3.645035504712e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_11_24  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_24  OBJ        2.076201120735e+00
+    zij_11_24  OBJ        5.780991482077e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_11_25  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_25  OBJ        6.132121210805e+00
+    zij_11_25  OBJ        5.914460410815e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_11_26  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_26  OBJ        3.039400117495e-02
+    zij_11_26  OBJ        2.108585494063e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_11_27  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_27  OBJ        2.461115432587e+00
+    zij_11_27  OBJ        6.850742171369e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_11_28  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_28  OBJ        7.524715620580e+00
+    zij_11_28  OBJ        2.691420504459e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_11_29  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_29  OBJ        7.172973936111e+00
+    zij_11_29  OBJ        3.405426891512e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_11_3  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_3  OBJ        3.430392497146e+00
+    zij_11_3  OBJ        6.228439741532e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_11_30  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_30  OBJ        6.447209948527e+00
+    zij_11_30  OBJ        4.528456180892e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_11_31  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_31  OBJ        6.288691001468e+00
+    zij_11_31  OBJ        2.798779329749e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_11_32  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_32  OBJ        7.241133510448e+00
+    zij_11_32  OBJ        1.669718696336e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_11_33  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_33  OBJ        6.934294441120e+00
+    zij_11_33  OBJ        3.689750077911e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_11_34  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_34  OBJ        7.103612123968e-01
+    zij_11_34  OBJ        5.762293174533e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_11_35  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_35  OBJ        4.519483556360e+00
+    zij_11_35  OBJ        6.012375955496e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_11_36  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_36  OBJ        4.350758206425e+00
+    zij_11_36  OBJ        1.145232283129e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_11_37  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_37  OBJ        2.762024432480e+00
+    zij_11_37  OBJ        3.289648132510e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_11_38  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_38  OBJ        3.086436899882e+00
+    zij_11_38  OBJ        6.352683599207e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_11_39  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_39  OBJ        2.460730579663e+00
+    zij_11_39  OBJ        4.019657690606e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_11_4  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_4  OBJ        2.138504913588e+00
+    zij_11_4  OBJ        7.484405912310e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_11_40  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_40  OBJ        2.316809579724e+00
+    zij_11_40  OBJ        2.121403867535e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_11_41  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_41  OBJ        2.656863825225e+00
+    zij_11_41  OBJ        5.735357973983e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_11_42  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_42  OBJ        1.793939097775e+00
+    zij_11_42  OBJ        2.521883833873e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_11_43  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_43  OBJ        6.747296951855e+00
+    zij_11_43  OBJ        3.487450622324e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_11_44  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_44  OBJ        3.756738018882e+00
+    zij_11_44  OBJ        4.925348515825e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_11_45  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_45  OBJ        5.821500038690e+00
+    zij_11_45  OBJ        2.777142721163e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_11_46  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_46  OBJ        1.852893375392e+00
+    zij_11_46  OBJ        5.037503734889e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_11_47  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_47  OBJ        1.464096452484e+00
+    zij_11_47  OBJ        8.739049628929e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_11_48  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_48  OBJ        1.742682948056e+00
+    zij_11_48  OBJ        6.313672487384e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_11_49  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_49  OBJ        3.800622852654e+00
+    zij_11_49  OBJ        3.449721631910e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_11_5  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_5  OBJ        2.791867276693e+00
+    zij_11_5  OBJ        3.636307493904e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_11_6  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_6  OBJ        4.869439179186e+00
+    zij_11_6  OBJ        2.989539748550e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_11_7  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_7  OBJ        1.776083910868e+00
+    zij_11_7  OBJ        3.816056158949e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_11_8  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_8  OBJ        3.635694831480e+00
+    zij_11_8  OBJ        3.393325240026e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_11_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_11_9  Deliver_from_cloud_kitchen_11_to_two_service_stations   1.000000000000e+00
-    zij_11_9  OBJ        8.000995659889e-01
+    zij_11_9  OBJ        1.996688608597e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_12_0  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_0  OBJ        1.458314374874e+00
+    zij_12_0  OBJ        3.940254370941e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_12_1  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_1  OBJ        2.458772604815e+00
+    zij_12_1  OBJ        5.995447487927e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_12_10  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_10  OBJ        2.321223403459e+00
+    zij_12_10  OBJ        4.037542765434e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_12_11  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_11  OBJ        2.616300131384e+00
+    zij_12_11  OBJ        4.148314613869e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_12_12  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_12  OBJ        5.585720276858e-01
+    zij_12_12  OBJ        3.779958016846e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_12_13  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_13  OBJ        6.266242003143e+00
+    zij_12_13  OBJ        6.523263441165e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_12_14  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_14  OBJ        2.904495437588e+00
+    zij_12_14  OBJ        3.496141503567e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_12_15  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_15  OBJ        6.990757324696e+00
+    zij_12_15  OBJ        4.401287312728e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_12_16  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_16  OBJ        2.627227751219e+00
+    zij_12_16  OBJ        1.607695797353e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_12_17  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_17  OBJ        4.641720863076e+00
+    zij_12_17  OBJ        2.706695323432e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_12_18  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_18  OBJ        3.057685465550e+00
+    zij_12_18  OBJ        3.497841911039e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_12_19  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_19  OBJ        1.253586133586e+00
+    zij_12_19  OBJ        2.691420903945e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_12_2  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_2  OBJ        5.146417747147e+00
+    zij_12_2  OBJ        8.657368954182e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_12_20  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_20  OBJ        4.308407564477e+00
+    zij_12_20  OBJ        1.186814201278e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_12_21  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_21  OBJ        2.710695759663e+00
+    zij_12_21  OBJ        1.828039828455e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_12_22  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_22  OBJ        6.290291491397e+00
+    zij_12_22  OBJ        3.535328787809e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_12_23  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_23  OBJ        4.410121237257e+00
+    zij_12_23  OBJ        4.236574868480e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_12_24  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_24  OBJ        2.012353061723e+00
+    zij_12_24  OBJ        5.118501518365e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_12_25  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_25  OBJ        5.473338945826e+00
+    zij_12_25  OBJ        5.209589298805e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_12_26  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_26  OBJ        6.818076125421e-01
+    zij_12_26  OBJ        2.076206263414e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_12_27  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_27  OBJ        2.251636819592e+00
+    zij_12_27  OBJ        6.152022601890e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_12_28  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_28  OBJ        6.821214832415e+00
+    zij_12_28  OBJ        1.996259468914e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_12_29  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_29  OBJ        6.528168951266e+00
+    zij_12_29  OBJ        4.328881282908e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_12_3  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_3  OBJ        4.006851485173e+00
+    zij_12_3  OBJ        5.537850526009e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_12_30  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_30  OBJ        5.804272453968e+00
+    zij_12_30  OBJ        3.844921396071e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_12_31  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_31  OBJ        5.583372786846e+00
+    zij_12_31  OBJ        2.093588697058e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_12_32  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_32  OBJ        6.606937629523e+00
+    zij_12_32  OBJ        9.712827923058e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_12_33  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_33  OBJ        6.247608065403e+00
+    zij_12_33  OBJ        3.021111103242e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_12_34  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_34  OBJ        7.393501593624e-01
+    zij_12_34  OBJ        5.079120344263e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_12_35  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_35  OBJ        3.827526593285e+00
+    zij_12_35  OBJ        5.310111720318e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_12_36  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_36  OBJ        3.819844758108e+00
+    zij_12_36  OBJ        1.800524548890e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_12_37  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_37  OBJ        2.084286109209e+00
+    zij_12_37  OBJ        2.585135902029e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_12_38  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_38  OBJ        2.423812577939e+00
+    zij_12_38  OBJ        5.754357415301e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_12_39  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_39  OBJ        2.623848083530e+00
+    zij_12_39  OBJ        4.528753243957e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_12_4  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_4  OBJ        1.435826599826e+00
+    zij_12_4  OBJ        6.848244927154e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_12_40  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_40  OBJ        2.974199734448e+00
+    zij_12_40  OBJ        1.449115477201e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_12_41  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_41  OBJ        3.283708645126e+00
+    zij_12_41  OBJ        5.053163390624e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_12_42  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_42  OBJ        1.096477120884e+00
+    zij_12_42  OBJ        2.702834007057e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_12_43  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_43  OBJ        6.144852508945e+00
+    zij_12_43  OBJ        2.853153075997e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_12_44  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_44  OBJ        4.181657881396e+00
+    zij_12_44  OBJ        4.220056672678e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_12_45  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_45  OBJ        5.230550558278e+00
+    zij_12_45  OBJ        3.288375917071e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_12_46  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_46  OBJ        2.204083781589e+00
+    zij_12_46  OBJ        4.340955461493e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_12_47  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_47  OBJ        8.770613091200e-01
+    zij_12_47  OBJ        1.130398116592e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_12_48  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_48  OBJ        2.389585008257e+00
+    zij_12_48  OBJ        5.610981134827e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_12_49  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_49  OBJ        4.502014040176e+00
+    zij_12_49  OBJ        2.745670973652e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_12_5  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_5  OBJ        2.204724590453e+00
+    zij_12_5  OBJ        2.998145031630e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_12_6  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_6  OBJ        4.292994735218e+00
+    zij_12_6  OBJ        2.284620513343e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_12_7  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_7  OBJ        2.466413766179e+00
+    zij_12_7  OBJ        3.153233301938e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_12_8  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_8  OBJ        4.328447037890e+00
+    zij_12_8  OBJ        4.081046339105e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_12_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_12_9  Deliver_from_cloud_kitchen_12_to_two_service_stations   1.000000000000e+00
-    zij_12_9  OBJ        3.069145446479e-01
+    zij_12_9  OBJ        1.429111256966e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_13_0  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_0  OBJ        1.808848531147e+00
+    zij_13_0  OBJ        4.489830291151e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_13_1  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_1  OBJ        1.905451985987e+00
+    zij_13_1  OBJ        5.450915439738e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_13_10  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_10  OBJ        1.783726433775e+00
+    zij_13_10  OBJ        3.573409868783e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_13_11  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_11  OBJ        2.465542695203e+00
+    zij_13_11  OBJ        3.722209949803e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_13_12  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_12  OBJ        6.140127687325e-01
+    zij_13_12  OBJ        4.185834140777e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_13_13  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_13  OBJ        5.781850999248e+00
+    zij_13_13  OBJ        6.012525616906e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_13_14  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_14  OBJ        2.679918598780e+00
+    zij_13_14  OBJ        3.952357572660e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_13_15  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_15  OBJ        6.438965258046e+00
+    zij_13_15  OBJ        4.862027968820e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_13_16  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_16  OBJ        3.113067883287e+00
+    zij_13_16  OBJ        1.519014380755e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_13_17  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_17  OBJ        4.266038843137e+00
+    zij_13_17  OBJ        2.341720108828e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_13_18  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_18  OBJ        2.489830970505e+00
+    zij_13_18  OBJ        4.066947174210e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_13_19  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_19  OBJ        1.025409105714e+00
+    zij_13_19  OBJ        2.254653091923e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_13_2  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_2  OBJ        4.684826045393e+00
+    zij_13_2  OBJ        3.814240602774e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_13_20  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_20  OBJ        4.867064573717e+00
+    zij_13_20  OBJ        1.191034895257e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_13_21  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_21  OBJ        2.265860337991e+00
+    zij_13_21  OBJ        1.926739502751e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_13_22  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_22  OBJ        5.775744260335e+00
+    zij_13_22  OBJ        3.191491020938e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_13_23  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_23  OBJ        4.968265282052e+00
+    zij_13_23  OBJ        4.802247764238e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_13_24  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_24  OBJ        2.429022988573e+00
+    zij_13_24  OBJ        4.573016748887e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_13_25  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_25  OBJ        4.925270456429e+00
+    zij_13_25  OBJ        4.782255134528e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_13_26  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_26  OBJ        1.181170526042e+00
+    zij_13_26  OBJ        2.505941723035e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_13_27  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_27  OBJ        2.569624286181e+00
+    zij_13_27  OBJ        5.659605157468e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_13_28  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_28  OBJ        6.349666775957e+00
+    zij_13_28  OBJ        1.503805004601e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_13_29  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_29  OBJ        5.972405851348e+00
+    zij_13_29  OBJ        9.927759578358e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_13_3  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_3  OBJ        4.574181120493e+00
+    zij_13_3  OBJ        5.025823448359e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_13_30  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_30  OBJ        5.247472063378e+00
+    zij_13_30  OBJ        3.527868391771e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_13_31  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_31  OBJ        5.142659491314e+00
+    zij_13_31  OBJ        1.684581487446e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_13_32  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_32  OBJ        6.046825483127e+00
+    zij_13_32  OBJ        5.270947548996e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_13_33  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_33  OBJ        5.728470596567e+00
+    zij_13_33  OBJ        2.480482680133e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_13_34  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_34  OBJ        1.285205747626e+00
+    zij_13_34  OBJ        4.555049686662e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_13_35  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_35  OBJ        3.482212811469e+00
+    zij_13_35  OBJ        4.907120616784e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_13_36  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_36  OBJ        3.256478032824e+00
+    zij_13_36  OBJ        2.343588562518e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_13_37  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_37  OBJ        1.554868506006e+00
+    zij_13_37  OBJ        2.136535361559e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_13_38  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_38  OBJ        1.877584937344e+00
+    zij_13_38  OBJ        5.186244543763e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_13_39  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_39  OBJ        3.121219124696e+00
+    zij_13_39  OBJ        5.096877049603e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_13_4  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_4  OBJ        1.091770637515e+00
+    zij_13_4  OBJ        6.288907024232e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_13_40  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_40  OBJ        3.328645453151e+00
+    zij_13_40  OBJ        9.138475628018e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_13_41  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_41  OBJ        3.840929514936e+00
+    zij_13_41  OBJ        4.527733026270e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_13_42  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_42  OBJ        8.312582865420e-01
+    zij_13_42  OBJ        3.205210402712e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_13_43  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_43  OBJ        5.577272922422e+00
+    zij_13_43  OBJ        2.671753341216e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_13_44  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_44  OBJ        4.739871299448e+00
+    zij_13_44  OBJ        3.785523965791e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_13_45  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_45  OBJ        4.661775806451e+00
+    zij_13_45  OBJ        3.857166150890e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_13_46  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_46  OBJ        2.758174633083e+00
+    zij_13_46  OBJ        3.843924017110e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_13_47  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_47  OBJ        9.758624534772e-01
+    zij_13_47  OBJ        1.286276013716e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_13_48  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_48  OBJ        2.938137407127e+00
+    zij_13_48  OBJ        5.135839084375e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_13_49  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_49  OBJ        4.996323379384e+00
+    zij_13_49  OBJ        2.290441553565e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_13_5  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_5  OBJ        1.635839091942e+00
+    zij_13_5  OBJ        2.805080509390e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_13_6  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_6  OBJ        3.723939034732e+00
+    zij_13_6  OBJ        1.845986747507e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_13_7  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_7  OBJ        2.984696837083e+00
+    zij_13_7  OBJ        2.902357175705e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_13_8  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_8  OBJ        4.842025625403e+00
+    zij_13_8  OBJ        4.601849579194e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_13_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_13_9  Deliver_from_cloud_kitchen_13_to_two_service_stations   1.000000000000e+00
-    zij_13_9  OBJ        4.217160224609e-01
+    zij_13_9  OBJ        8.672385698445e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_14_0  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_0  OBJ        1.882635426543e+00
+    zij_14_0  OBJ        4.687392319655e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_14_1  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_1  OBJ        1.629801859522e+00
+    zij_14_1  OBJ        5.279166487157e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_14_10  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_10  OBJ        1.644047579268e+00
+    zij_14_10  OBJ        3.501088495472e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_14_11  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_11  OBJ        2.612278312209e+00
+    zij_14_11  OBJ        3.682364022645e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_14_12  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_12  OBJ        6.734445019278e-01
+    zij_14_12  OBJ        4.260673089447e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_14_13  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_13  OBJ        5.681064675845e+00
+    zij_14_13  OBJ        5.883642730001e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_14_14  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_14  OBJ        2.785807061706e+00
+    zij_14_14  OBJ        4.064379324183e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_14_15  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_15  OBJ        6.253882362576e+00
+    zij_14_15  OBJ        4.973456531379e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_14_16  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_16  OBJ        3.253418124507e+00
+    zij_14_16  OBJ        1.715281588625e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_14_17  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_17  OBJ        4.261767151960e+00
+    zij_14_17  OBJ        2.365370060816e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_14_18  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_18  OBJ        2.241540673137e+00
+    zij_14_18  OBJ        4.310909204344e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_14_19  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_19  OBJ        1.186251357358e+00
+    zij_14_19  OBJ        2.222327320269e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_14_2  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_2  OBJ        4.609028778615e+00
+    zij_14_2  OBJ        1.180974248429e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_14_20  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_20  OBJ        5.137370835383e+00
+    zij_14_20  OBJ        1.431433672549e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_14_21  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_21  OBJ        2.226037116531e+00
+    zij_14_21  OBJ        2.174685576601e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_14_22  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_22  OBJ        5.642989161588e+00
+    zij_14_22  OBJ        3.218084688857e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_14_23  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_23  OBJ        5.178192325264e+00
+    zij_14_23  OBJ        5.028460479441e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_14_24  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_24  OBJ        2.726099299532e+00
+    zij_14_24  OBJ        4.401506959925e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_14_25  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_25  OBJ        4.748756604297e+00
+    zij_14_25  OBJ        4.735633049438e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_14_26  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_26  OBJ        1.366843619150e+00
+    zij_14_26  OBJ        2.803235985828e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_14_27  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_27  OBJ        2.857958682444e+00
+    zij_14_27  OBJ        5.551072167093e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_14_28  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_28  OBJ        6.259870109339e+00
+    zij_14_28  OBJ        1.433873748168e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_14_29  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_29  OBJ        5.780444290639e+00
+    zij_14_29  OBJ        1.228634858802e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_14_3  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_3  OBJ        4.805969311814e+00
+    zij_14_3  OBJ        4.897736134011e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_14_30  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_30  OBJ        5.054344291375e+00
+    zij_14_30  OBJ        3.569063703319e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_14_31  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_31  OBJ        5.083489724490e+00
+    zij_14_31  OBJ        1.690630926591e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_14_32  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_32  OBJ        5.845561195927e+00
+    zij_14_32  OBJ        6.095029562708e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_14_33  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_33  OBJ        5.590422207092e+00
+    zij_14_33  OBJ        2.326557951257e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_14_34  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_34  OBJ        1.562668174025e+00
+    zij_14_34  OBJ        4.413832761989e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_14_35  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_35  OBJ        3.504988291362e+00
+    zij_14_35  OBJ        4.879282392644e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_14_36  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_36  OBJ        2.994202455850e+00
+    zij_14_36  OBJ        2.541737608301e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_14_37  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_37  OBJ        1.433373129376e+00
+    zij_14_37  OBJ        2.095686383472e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_14_38  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_38  OBJ        1.720945999538e+00
+    zij_14_38  OBJ        4.959622847888e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_14_39  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_39  OBJ        3.415012246129e+00
+    zij_14_39  OBJ        5.350066590751e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_14_4  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_4  OBJ        1.178527184691e+00
+    zij_14_4  OBJ        6.089166981922e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_14_40  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_40  OBJ        3.376716461573e+00
+    zij_14_40  OBJ        8.119833652004e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_14_41  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_41  OBJ        4.051281312466e+00
+    zij_14_41  OBJ        4.384869647253e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_14_42  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_42  OBJ        9.911831269495e-01
+    zij_14_42  OBJ        3.498277429229e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_14_43  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_43  OBJ        5.353275228301e+00
+    zij_14_43  OBJ        2.800361597315e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_14_44  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_44  OBJ        5.010634581470e+00
+    zij_14_44  OBJ        3.738176553885e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_14_45  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_45  OBJ        4.430550299819e+00
+    zij_14_45  OBJ        4.107352283477e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_14_46  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_46  OBJ        3.032384634673e+00
+    zij_14_46  OBJ        3.736958163686e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_14_47  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_47  OBJ        1.247788749819e+00
+    zij_14_47  OBJ        1.283952055605e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_14_48  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_48  OBJ        3.139118256316e+00
+    zij_14_48  OBJ        5.045792899282e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_14_49  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_49  OBJ        5.134862297813e+00
+    zij_14_49  OBJ        2.240488923781e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_14_5  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_5  OBJ        1.398490418811e+00
+    zij_14_5  OBJ        2.925902930469e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_14_6  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_6  OBJ        3.483805745341e+00
+    zij_14_6  OBJ        1.821165401349e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_14_7  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_7  OBJ        3.153548770319e+00
+    zij_14_7  OBJ        2.990511649870e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_14_8  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_8  OBJ        4.998593216029e+00
+    zij_14_8  OBJ        4.766146956370e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_14_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_14_9  Deliver_from_cloud_kitchen_14_to_two_service_stations   1.000000000000e+00
-    zij_14_9  OBJ        6.016019155212e-01
+    zij_14_9  OBJ        6.074864209435e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_15_0  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_0  OBJ        1.732727907114e+00
+    zij_15_0  OBJ        4.702327014026e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_15_1  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_1  OBJ        1.517231193420e+00
+    zij_15_1  OBJ        5.384145029766e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_15_10  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_10  OBJ        1.866753434457e+00
+    zij_15_10  OBJ        3.778977824805e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_15_11  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_11  OBJ        3.079338804707e+00
+    zij_15_11  OBJ        3.998905703865e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_15_12  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_12  OBJ        6.809622073188e-01
+    zij_15_12  OBJ        4.061168907496e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_15_13  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_13  OBJ        5.904374084450e+00
+    zij_15_13  OBJ        6.061943808327e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_15_14  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_14  OBJ        3.233760313506e+00
+    zij_15_14  OBJ        3.926201034184e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_15_15  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_15  OBJ        6.327528468804e+00
+    zij_15_15  OBJ        4.826549039023e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_15_16  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_16  OBJ        3.174832951798e+00
+    zij_15_16  OBJ        2.193344693618e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_15_17  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_17  OBJ        4.613969020999e+00
+    zij_15_17  OBJ        2.759212060579e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_15_18  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_18  OBJ        2.205560040728e+00
+    zij_15_18  OBJ        4.436144928686e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_15_19  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_19  OBJ        1.661919438608e+00
+    zij_15_19  OBJ        2.565331643380e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_15_2  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_2  OBJ        4.873570555035e+00
+    zij_15_2  OBJ        3.615006874461e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_15_20  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_20  OBJ        5.334485845779e+00
+    zij_15_20  OBJ        1.901983095583e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_15_21  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_21  OBJ        2.560929569697e+00
+    zij_15_21  OBJ        2.642902602497e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_15_22  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_22  OBJ        5.815982989790e+00
+    zij_15_22  OBJ        3.606480449059e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_15_23  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_23  OBJ        5.216376281931e+00
+    zij_15_23  OBJ        5.104779419862e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_15_24  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_24  OBJ        3.098208530107e+00
+    zij_15_24  OBJ        4.513024655067e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_15_25  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_25  OBJ        4.847861678035e+00
+    zij_15_25  OBJ        5.037185066252e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_15_26  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_26  OBJ        1.444512293529e+00
+    zij_15_26  OBJ        3.167624895404e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_15_27  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_27  OBJ        3.277895780499e+00
+    zij_15_27  OBJ        5.763250227352e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_15_28  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_28  OBJ        6.497035255359e+00
+    zij_15_28  OBJ        1.759364673957e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_15_29  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_29  OBJ        5.841944610999e+00
+    zij_15_29  OBJ        1.413641162103e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_15_3  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_3  OBJ        4.897096855625e+00
+    zij_15_3  OBJ        5.082549014057e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_15_30  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_30  OBJ        5.117440369899e+00
+    zij_15_30  OBJ        3.967918836074e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_15_31  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_31  OBJ        5.367472773574e+00
+    zij_15_31  OBJ        2.081254819527e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_15_32  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_32  OBJ        5.886685419674e+00
+    zij_15_32  OBJ        1.077549975628e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_15_33  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_33  OBJ        5.754758232674e+00
+    zij_15_33  OBJ        2.501291877714e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_15_34  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_34  OBJ        1.829041480533e+00
+    zij_15_34  OBJ        4.580134654823e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_15_35  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_35  OBJ        3.888027173983e+00
+    zij_15_35  OBJ        5.202538558161e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_15_36  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_36  OBJ        2.895401795854e+00
+    zij_15_36  OBJ        2.587945487081e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_15_37  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_37  OBJ        1.694060006842e+00
+    zij_15_37  OBJ        2.432158238510e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_15_38  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_38  OBJ        1.912271316790e+00
+    zij_15_38  OBJ        4.945833585932e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_15_39  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_39  OBJ        3.724880744739e+00
+    zij_15_39  OBJ        5.493906237815e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_15_4  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_4  OBJ        1.632052750259e+00
+    zij_15_4  OBJ        6.132517682926e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_15_40  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_40  OBJ        3.146992420141e+00
+    zij_15_40  OBJ        1.148408806811e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_15_41  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_41  OBJ        4.099169088915e+00
+    zij_15_41  OBJ        4.548582425364e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_15_42  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_42  OBJ        1.467661973950e+00
+    zij_15_42  OBJ        3.802568841155e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_15_43  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_43  OBJ        5.343722042481e+00
+    zij_15_43  OBJ        3.259603827544e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_15_44  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_44  OBJ        5.209868811702e+00
+    zij_15_44  OBJ        4.045340704955e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_15_45  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_45  OBJ        4.408700993480e+00
+    zij_15_45  OBJ        4.250679450394e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_15_46  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_46  OBJ        3.257878818039e+00
+    zij_15_46  OBJ        3.963982083045e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_15_47  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_47  OBJ        1.697644537735e+00
+    zij_15_47  OBJ        1.059325123905e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_15_48  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_48  OBJ        3.178768906560e+00
+    zij_15_48  OBJ        5.287940269441e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_15_49  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_49  OBJ        5.033229535390e+00
+    zij_15_49  OBJ        2.563831409780e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_15_5  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_5  OBJ        1.435586447798e+00
+    zij_15_5  OBJ        3.381082102978e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_15_6  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_6  OBJ        3.447356989355e+00
+    zij_15_6  OBJ        2.180592026113e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_15_7  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_7  OBJ        3.129069650207e+00
+    zij_15_7  OBJ        3.427055082419e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_15_8  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_8  OBJ        4.930522139009e+00
+    zij_15_8  OBJ        4.714259975569e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_15_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_15_9  Deliver_from_cloud_kitchen_15_to_two_service_stations   1.000000000000e+00
-    zij_15_9  OBJ        8.033132507499e-01
+    zij_15_9  OBJ        7.011601923059e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_16_0  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_0  OBJ        7.525274281153e-01
+    zij_16_0  OBJ        3.787257902179e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_16_1  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_1  OBJ        2.467324758945e+00
+    zij_16_1  OBJ        6.369304204982e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_16_10  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_10  OBJ        2.813636002850e+00
+    zij_16_10  OBJ        4.696974818249e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_16_11  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_11  OBJ        3.621679187173e+00
+    zij_16_11  OBJ        4.881353103681e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_16_12  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_12  OBJ        5.930299426795e-01
+    zij_16_12  OBJ        3.085486539957e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_16_13  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_13  OBJ        6.859888850223e+00
+    zij_16_13  OBJ        7.035955371628e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_16_14  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_14  OBJ        3.867200827108e+00
+    zij_16_14  OBJ        2.941306158572e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_16_15  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_15  OBJ        7.310948595785e+00
+    zij_16_15  OBJ        3.841410773661e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_16_16  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_16  OBJ        2.209026021469e+00
+    zij_16_16  OBJ        2.630170148311e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_16_17  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_17  OBJ        5.452029076952e+00
+    zij_16_17  OBJ        3.537652448414e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_16_18  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_18  OBJ        3.173688300305e+00
+    zij_16_18  OBJ        3.648258379405e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_16_19  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_19  OBJ        2.197598821890e+00
+    zij_16_19  OBJ        3.419351920201e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_16_2  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_2  OBJ        5.802654014608e+00
+    zij_16_2  OBJ        1.118327711117e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_16_20  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_20  OBJ        4.641552462168e+00
+    zij_16_20  OBJ        2.229694216169e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_16_21  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_21  OBJ        3.424316454513e+00
+    zij_16_21  OBJ        2.886300768474e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_16_22  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_22  OBJ        6.791408084237e+00
+    zij_16_22  OBJ        4.389260162482e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_16_23  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_23  OBJ        4.317959556527e+00
+    zij_16_23  OBJ        4.246312985381e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_16_24  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_24  OBJ        2.889473633611e+00
+    zij_16_24  OBJ        5.497830819125e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_16_25  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_25  OBJ        5.833049981786e+00
+    zij_16_25  OBJ        5.934838617289e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_16_26  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_26  OBJ        8.281839422432e-01
+    zij_16_26  OBJ        2.930837084354e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_16_27  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_27  OBJ        3.224196681601e+00
+    zij_16_27  OBJ        6.724111363500e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_16_28  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_28  OBJ        7.445230427569e+00
+    zij_16_28  OBJ        2.632987675796e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_16_29  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_29  OBJ        6.823956368107e+00
+    zij_16_29  OBJ        1.029850684435e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_16_3  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_3  OBJ        4.058072852828e+00
+    zij_16_3  OBJ        6.053765419494e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_16_30  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_30  OBJ        6.100135927526e+00
+    zij_16_30  OBJ        4.728458026426e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_16_31  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_31  OBJ        6.281330217887e+00
+    zij_16_31  OBJ        2.871893418498e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_16_32  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_32  OBJ        6.864764270305e+00
+    zij_16_32  OBJ        1.725811083420e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_16_33  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_33  OBJ        6.732439162906e+00
+    zij_16_33  OBJ        3.471165192447e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_16_34  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_34  OBJ        1.500223473211e+00
+    zij_16_34  OBJ        5.556434139685e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_16_35  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_35  OBJ        4.679162253846e+00
+    zij_16_35  OBJ        6.077088293746e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_16_36  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_36  OBJ        3.826544939837e+00
+    zij_16_36  OBJ        1.751347093243e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_16_37  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_37  OBJ        2.618224362267e+00
+    zij_16_37  OBJ        3.293964703798e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_16_38  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_38  OBJ        2.873269173915e+00
+    zij_16_38  OBJ        5.907998752517e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_16_39  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_39  OBJ        3.309352032562e+00
+    zij_16_39  OBJ        4.716271048455e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_16_4  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_4  OBJ        2.292439690596e+00
+    zij_16_4  OBJ        7.110885493195e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_16_40  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_40  OBJ        2.184652918097e+00
+    zij_16_40  OBJ        2.010233039408e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_16_41  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_41  OBJ        3.222225945112e+00
+    zij_16_41  OBJ        5.525518966683e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_16_42  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_42  OBJ        2.011286961352e+00
+    zij_16_42  OBJ        3.369934783454e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_16_43  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_43  OBJ        6.306626130946e+00
+    zij_16_43  OBJ        3.843264950660e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_16_44  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_44  OBJ        4.522556936529e+00
+    zij_16_44  OBJ        4.937413052571e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_16_45  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_45  OBJ        5.369173647917e+00
+    zij_16_45  OBJ        3.492660971586e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_16_46  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_46  OBJ        2.678633074524e+00
+    zij_16_46  OBJ        4.915619838407e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_16_47  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_47  OBJ        1.930582847232e+00
+    zij_16_47  OBJ        8.559593095414e-02
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_16_48  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_48  OBJ        2.311483048718e+00
+    zij_16_48  OBJ        6.232384067050e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_16_49  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_49  OBJ        4.052832200259e+00
+    zij_16_49  OBJ        3.439648448451e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_16_5  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_5  OBJ        2.420739921562e+00
+    zij_16_5  OBJ        3.981931373563e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_16_6  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_6  OBJ        4.405954698748e+00
+    zij_16_6  OBJ        3.015572405913e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_16_7  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_7  OBJ        2.199757263801e+00
+    zij_16_7  OBJ        4.097099008418e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_16_8  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_8  OBJ        3.961322454208e+00
+    zij_16_8  OBJ        3.753343660747e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_16_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_16_9  Deliver_from_cloud_kitchen_16_to_two_service_stations   1.000000000000e+00
-    zij_16_9  OBJ        8.615105696810e-01
+    zij_16_9  OBJ        1.668589861550e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_17_0  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_0  OBJ        1.265976798315e+00
+    zij_17_0  OBJ        4.304735960493e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_17_1  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_1  OBJ        1.954270642770e+00
+    zij_17_1  OBJ        5.884527049377e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_17_10  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_10  OBJ        2.393040794888e+00
+    zij_17_10  OBJ        4.303874203803e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_17_11  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_11  OBJ        3.473932308106e+00
+    zij_17_11  OBJ        4.518134699713e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_17_12  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_12  OBJ        5.793760279953e-01
+    zij_17_12  OBJ        3.549058266120e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_17_13  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_13  OBJ        6.429394261184e+00
+    zij_17_13  OBJ        6.580772471809e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_17_14  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_14  OBJ        3.667780587817e+00
+    zij_17_14  OBJ        3.438529766592e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_17_15  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_15  OBJ        6.814837321536e+00
+    zij_17_15  OBJ        4.331878214289e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_17_16  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_16  OBJ        2.725738177297e+00
+    zij_17_16  OBJ        2.529772681494e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_17_17  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_17  OBJ        5.123244096547e+00
+    zij_17_17  OBJ        3.246094611444e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_17_18  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_18  OBJ        2.665623360245e+00
+    zij_17_18  OBJ        4.135091883112e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_17_19  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_19  OBJ        2.034400986697e+00
+    zij_17_19  OBJ        3.075464570811e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_17_2  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_2  OBJ        5.399610016705e+00
+    zij_17_2  OBJ        7.787397277386e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_17_20  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_20  OBJ        5.098414086435e+00
+    zij_17_20  OBJ        2.179160997336e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_17_21  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_21  OBJ        3.073600727516e+00
+    zij_17_21  OBJ        2.893431780879e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_17_22  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_22  OBJ        6.333950679990e+00
+    zij_17_22  OBJ        4.097589319606e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_17_23  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_23  OBJ        4.833397864429e+00
+    zij_17_23  OBJ        4.753768248959e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_17_24  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_24  OBJ        3.124937178321e+00
+    zij_17_24  OBJ        5.017153351933e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_17_25  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_25  OBJ        5.347302142946e+00
+    zij_17_25  OBJ        5.559759682682e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_17_26  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_26  OBJ        1.203222759291e+00
+    zij_17_26  OBJ        3.180336302443e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_17_27  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_27  OBJ        3.387855971462e+00
+    zij_17_27  OBJ        6.287256975350e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_17_28  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_28  OBJ        7.022870927823e+00
+    zij_17_28  OBJ        2.272127505758e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_17_29  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_29  OBJ        6.325112681546e+00
+    zij_17_29  OBJ        1.293614514217e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_17_3  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_3  OBJ        4.560491560633e+00
+    zij_17_3  OBJ        5.603187578627e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_17_30  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_30  OBJ        5.602883228327e+00
+    zij_17_30  OBJ        4.452483919410e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_17_31  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_31  OBJ        5.892331714728e+00
+    zij_17_31  OBJ        2.568823281163e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_17_32  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_32  OBJ        6.360781175196e+00
+    zij_17_32  OBJ        1.486611954350e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_17_33  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_33  OBJ        6.270983472064e+00
+    zij_17_33  OBJ        3.023917356636e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_17_34  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_34  OBJ        1.762182206888e+00
+    zij_17_34  OBJ        5.097913917773e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_17_35  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_35  OBJ        4.382474740356e+00
+    zij_17_35  OBJ        5.720931264106e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_17_36  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_36  OBJ        3.308461614390e+00
+    zij_17_36  OBJ        2.246292306761e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_17_37  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_37  OBJ        2.218127206768e+00
+    zij_17_37  OBJ        2.944062236790e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_17_38  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_38  OBJ        2.437689418958e+00
+    zij_17_38  OBJ        5.394989770270e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_17_39  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_39  OBJ        3.645933430049e+00
+    zij_17_39  OBJ        5.201901353211e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_17_4  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_4  OBJ        2.061536131159e+00
+    zij_17_4  OBJ        6.607115248757e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_17_40  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_40  OBJ        2.628666581635e+00
+    zij_17_40  OBJ        1.653030700149e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_17_41  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_41  OBJ        3.732716139025e+00
+    zij_17_41  OBJ        5.065885470038e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_17_42  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_42  OBJ        1.838759347709e+00
+    zij_17_42  OBJ        3.714657743135e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_17_43  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_43  OBJ        5.793746271398e+00
+    zij_17_43  OBJ        3.673135486148e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_17_44  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_44  OBJ        4.977100270859e+00
+    zij_17_44  OBJ        4.566470119100e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_17_45  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_45  OBJ        4.855802868731e+00
+    zij_17_45  OBJ        3.969294659024e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_17_46  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_46  OBJ        3.081560549241e+00
+    zij_17_46  OBJ        4.489783982509e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_17_47  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_47  OBJ        1.920536509267e+00
+    zij_17_47  OBJ        5.768507927671e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_17_48  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_48  OBJ        2.817893138729e+00
+    zij_17_48  OBJ        5.814096064214e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_17_49  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_49  OBJ        4.559359819662e+00
+    zij_17_49  OBJ        3.079685461041e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_17_5  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_5  OBJ        1.938489413856e+00
+    zij_17_5  OBJ        3.802517125249e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_17_6  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_6  OBJ        3.892519402325e+00
+    zij_17_6  OBJ        2.683701158674e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_17_7  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_7  OBJ        2.717932251984e+00
+    zij_17_7  OBJ        3.876647589078e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_17_8  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_8  OBJ        4.475723786247e+00
+    zij_17_8  OBJ        4.270358074303e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_17_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_17_9  Deliver_from_cloud_kitchen_17_to_two_service_stations   1.000000000000e+00
-    zij_17_9  OBJ        8.461916216075e-01
+    zij_17_9  OBJ        1.227171850998e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_18_0  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_0  OBJ        7.958128657081e-01
+    zij_18_0  OBJ        3.695096064692e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_18_1  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_1  OBJ        2.896681355282e+00
+    zij_18_1  OBJ        6.883015476287e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_18_10  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_10  OBJ        3.462372927469e+00
+    zij_18_10  OBJ        5.376357971805e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_18_11  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_11  OBJ        4.417693046822e+00
+    zij_18_11  OBJ        5.590234967918e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_18_12  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_12  OBJ        1.384593182204e+00
+    zij_18_12  OBJ        2.570331486102e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_18_13  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_13  OBJ        7.488751862593e+00
+    zij_18_13  OBJ        7.620848363011e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_18_14  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_14  OBJ        4.656369614863e+00
+    zij_18_14  OBJ        2.563044500861e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_18_15  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_15  OBJ        7.783015021052e+00
+    zij_18_15  OBJ        3.412965035661e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_18_16  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_16  OBJ        2.029506894742e+00
+    zij_18_16  OBJ        3.427137218608e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_18_17  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_17  OBJ        6.188208713190e+00
+    zij_18_17  OBJ        4.293811221337e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_18_18  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_18  OBJ        3.618657102847e+00
+    zij_18_18  OBJ        3.791969452452e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_18_19  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_19  OBJ        2.989565661306e+00
+    zij_18_19  OBJ        4.142817438516e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_18_2  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_2  OBJ        6.470089768661e+00
+    zij_18_2  OBJ        1.831474122433e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_18_20  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_20  OBJ        4.875786369023e+00
+    zij_18_20  OBJ        3.024378299671e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_18_21  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_21  OBJ        4.142600354430e+00
+    zij_18_21  OBJ        3.667257221785e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_18_22  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_22  OBJ        7.372017783307e+00
+    zij_18_22  OBJ        5.146728780175e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_18_23  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_23  OBJ        4.249101738853e+00
+    zij_18_23  OBJ        4.257963490501e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_18_24  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_24  OBJ        3.538413262594e+00
+    zij_18_24  OBJ        6.026175543023e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_18_25  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_25  OBJ        6.345467051138e+00
+    zij_18_25  OBJ        6.632837570349e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_18_26  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_26  OBJ        1.458776867674e+00
+    zij_18_26  OBJ        3.565247329850e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_18_27  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_27  OBJ        3.926358141094e+00
+    zij_18_27  OBJ        7.342857897018e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_18_28  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_28  OBJ        8.085989115409e+00
+    zij_18_28  OBJ        3.342058714758e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_18_29  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_29  OBJ        7.286333164789e+00
+    zij_18_29  OBJ        1.738392811553e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_18_3  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_3  OBJ        4.108885421952e+00
+    zij_18_3  OBJ        6.649121333279e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_18_30  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_30  OBJ        6.571593604041e+00
+    zij_18_30  OBJ        5.493951742128e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_18_31  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_31  OBJ        6.964853759065e+00
+    zij_18_31  OBJ        3.620314480539e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_18_32  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_32  OBJ        7.303453815464e+00
+    zij_18_32  OBJ        2.495886507805e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_18_33  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_33  OBJ        7.304699350895e+00
+    zij_18_33  OBJ        4.078962143092e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_18_34  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_34  OBJ        2.175456755469e+00
+    zij_18_34  OBJ        6.137149347822e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_18_35  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_35  OBJ        5.434333423301e+00
+    zij_18_35  OBJ        6.792450696366e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_18_36  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_36  OBJ        4.173561470523e+00
+    zij_18_36  OBJ        1.956097431910e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_18_37  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_37  OBJ        3.290986286864e+00
+    zij_18_37  OBJ        4.012711927313e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_18_38  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_38  OBJ        3.501561639897e+00
+    zij_18_38  OBJ        6.294705073860e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_18_39  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_39  OBJ        3.827973483502e+00
+    zij_18_39  OBJ        4.842739950490e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_18_4  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_4  OBJ        3.069164215397e+00
+    zij_18_4  OBJ        7.549797467462e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_18_40  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_40  OBJ        1.633077590867e+00
+    zij_18_40  OBJ        2.720429839120e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_18_41  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_41  OBJ        3.235078974506e+00
+    zij_18_41  OBJ        6.104014191174e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_18_42  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_42  OBJ        2.800944410393e+00
+    zij_18_42  OBJ        3.874708064451e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_18_43  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_43  OBJ        6.692240146916e+00
+    zij_18_43  OBJ        4.637264158388e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_18_44  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_44  OBJ        4.766077487873e+00
+    zij_18_44  OBJ        5.639283088227e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_18_45  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_45  OBJ        5.756278953040e+00
+    zij_18_45  OBJ        3.683458290883e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_18_46  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_46  OBJ        3.101667264655e+00
+    zij_18_46  OBJ        5.553533270151e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_18_47  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_47  OBJ        2.721343031330e+00
+    zij_18_47  OBJ        7.182012597210e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_18_48  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_48  OBJ        2.400196920284e+00
+    zij_18_48  OBJ        6.879740007640e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_18_49  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_49  OBJ        3.709317917456e+00
+    zij_18_49  OBJ        4.150513047081e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_18_5  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_5  OBJ        2.966363456656e+00
+    zij_18_5  OBJ        4.774790080155e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_18_6  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_6  OBJ        4.800521723165e+00
+    zij_18_6  OBJ        3.746823140920e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_18_7  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_7  OBJ        2.154099764913e+00
+    zij_18_7  OBJ        4.881604032764e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_18_8  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_8  OBJ        3.689133643319e+00
+    zij_18_8  OBJ        3.522971195456e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_18_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_18_9  Deliver_from_cloud_kitchen_18_to_two_service_stations   1.000000000000e+00
-    zij_18_9  OBJ        1.658277193713e+00
+    zij_18_9  OBJ        2.295350384804e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_19_0  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_0  OBJ        2.955818093968e-01
+    zij_19_0  OBJ        2.780809739079e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_19_1  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_1  OBJ        3.513586673965e+00
+    zij_19_1  OBJ        7.398523810568e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_19_10  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_10  OBJ        3.794708237850e+00
+    zij_19_10  OBJ        5.629140143535e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_19_11  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_11  OBJ        4.234355774092e+00
+    zij_19_11  OBJ        5.774141306098e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_19_12  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_12  OBJ        1.478006705105e+00
+    zij_19_12  OBJ        2.132037986734e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_19_13  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_13  OBJ        7.828266227783e+00
+    zij_19_13  OBJ        8.033495280124e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_19_14  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_14  OBJ        4.549570534815e+00
+    zij_19_14  OBJ        1.915649212268e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_19_15  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_15  OBJ        8.349276645027e+00
+    zij_19_15  OBJ        2.823523390261e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_19_16  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_16  OBJ        1.165108588617e+00
+    zij_19_16  OBJ        3.223824375527e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_19_17  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_17  OBJ        6.292835747921e+00
+    zij_19_17  OBJ        4.357569595632e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_19_18  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_18  OBJ        4.219648461457e+00
+    zij_19_18  OBJ        2.797611699738e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_19_19  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_19  OBJ        2.911936445751e+00
+    zij_19_19  OBJ        4.307470330594e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_19_2  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_2  OBJ        6.740393518284e+00
+    zij_19_2  OBJ        2.094746869060e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_19_20  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_20  OBJ        3.880042308977e+00
+    zij_19_20  OBJ        2.783725129497e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_19_21  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_21  OBJ        4.320509198086e+00
+    zij_19_21  OBJ        3.287512536748e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_19_22  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_22  OBJ        7.791941179906e+00
+    zij_19_22  OBJ        5.192062813085e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_19_23  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_23  OBJ        3.324456433314e+00
+    zij_19_23  OBJ        3.296708079745e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_19_24  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_24  OBJ        2.831951682425e+00
+    zij_19_24  OBJ        6.524171100318e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_19_25  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_25  OBJ        6.863585106904e+00
+    zij_19_25  OBJ        6.835322194412e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_19_26  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_26  OBJ        1.009227070692e+00
+    zij_19_26  OBJ        2.836258171210e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_19_27  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_27  OBJ        3.298383956404e+00
+    zij_19_27  OBJ        7.700634286302e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_19_28  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_28  OBJ        8.401812138440e+00
+    zij_19_28  OBJ        3.557428021560e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_19_29  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_29  OBJ        7.864434812219e+00
+    zij_19_29  OBJ        1.336273319850e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_19_3  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_3  OBJ        3.133867462199e+00
+    zij_19_3  OBJ        7.048001813627e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_19_30  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_30  OBJ        7.139735915197e+00
+    zij_19_30  OBJ        5.503480912432e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_19_31  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_31  OBJ        7.198466046186e+00
+    zij_19_31  OBJ        3.724605376518e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_19_32  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_32  OBJ        7.908452367896e+00
+    zij_19_32  OBJ        2.567905887348e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_19_33  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_33  OBJ        7.737526543845e+00
+    zij_19_33  OBJ        4.471780104517e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_19_34  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_34  OBJ        1.621056489416e+00
+    zij_19_34  OBJ        6.560558844733e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_19_35  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_35  OBJ        5.484346883424e+00
+    zij_19_35  OBJ        6.950893561125e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_19_36  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_36  OBJ        4.868916945011e+00
+    zij_19_36  OBJ        9.743773619846e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_19_37  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_37  OBJ        3.582597520563e+00
+    zij_19_37  OBJ        4.191639114832e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_19_38  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_38  OBJ        3.867665189887e+00
+    zij_19_38  OBJ        6.954366948422e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_19_39  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_39  OBJ        2.961520959569e+00
+    zij_19_39  OBJ        3.852632731585e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_19_4  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_4  OBJ        3.084398631316e+00
+    zij_19_4  OBJ        8.154420094607e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_19_40  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_40  OBJ        1.321928629015e+00
+    zij_19_40  OBJ        2.950135568471e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_19_41  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_41  OBJ        2.267841920983e+00
+    zij_19_41  OBJ        6.530898516096e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_19_42  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_42  OBJ        2.753160753759e+00
+    zij_19_42  OBJ        2.995666065604e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_19_43  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_43  OBJ        7.353008775607e+00
+    zij_19_43  OBJ        4.482330905071e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_19_44  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_44  OBJ        3.771067189956e+00
+    zij_19_44  OBJ        5.839708373982e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_19_45  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_45  OBJ        6.415489243869e+00
+    zij_19_45  OBJ        2.686968076969e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_19_46  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_46  OBJ        2.183064966366e+00
+    zij_19_46  OBJ        5.885471129671e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_19_47  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_47  OBJ        2.459801086125e+00
+    zij_19_47  OBJ        9.844847198575e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_19_48  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_48  OBJ        1.407111787785e+00
+    zij_19_48  OBJ        7.187517454253e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_19_49  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_49  OBJ        3.010786259883e+00
+    zij_19_49  OBJ        4.346506725220e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_19_5  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_5  OBJ        3.455036603443e+00
+    zij_19_5  OBJ        4.630778213533e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_19_6  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_6  OBJ        5.452241230174e+00
+    zij_19_6  OBJ        3.898253523117e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_19_7  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_7  OBJ        1.199493397760e+00
+    zij_19_7  OBJ        4.804205146032e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_19_8  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_8  OBJ        2.915033540924e+00
+    zij_19_8  OBJ        2.709642045071e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_19_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_19_9  Deliver_from_cloud_kitchen_19_to_two_service_stations   1.000000000000e+00
-    zij_19_9  OBJ        1.639497831750e+00
+    zij_19_9  OBJ        2.683959926384e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_1_0   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_0   OBJ        4.332009269656e+00
+    zij_1_0   OBJ        6.657173392322e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_1_1   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_1   OBJ        2.546163638048e+00
+    zij_1_1   OBJ        3.679790112785e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_1_10  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_10  OBJ        1.358894760681e+00
+    zij_1_10  OBJ        1.301547723798e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_1_11  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_11  OBJ        1.213270451446e+00
+    zij_1_11  OBJ        1.272769425716e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_1_12  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_12  OBJ        3.147737864335e+00
+    zij_1_12  OBJ        6.690322917934e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_1_13  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_13  OBJ        3.503331508665e+00
+    zij_1_13  OBJ        3.882593028550e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_1_14  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_14  OBJ        8.881234312031e-01
+    zij_1_14  OBJ        6.404697385009e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_1_15  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_15  OBJ        4.711926511206e+00
+    zij_1_15  OBJ        7.305594261467e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_1_16  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_16  OBJ        5.521944365975e+00
+    zij_1_16  OBJ        1.648667011867e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_1_17  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_17  OBJ        1.733327195556e+00
+    zij_1_17  OBJ        2.176734865509e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_1_18  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_18  OBJ        2.402548299229e+00
+    zij_1_18  OBJ        5.958738251032e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_1_19  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_19  OBJ        1.691771906142e+00
+    zij_1_19  OBJ        4.541812372239e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_1_2   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_2   OBJ        2.333232696001e+00
+    zij_1_2   OBJ        2.644763857930e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_1_20  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_20  OBJ        6.420479868564e+00
+    zij_1_20  OBJ        2.018229679425e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_1_21  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_21  OBJ        4.970078346487e-01
+    zij_1_21  OBJ        2.148065067104e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_1_22  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_22  OBJ        3.682666746153e+00
+    zij_1_22  OBJ        6.850124582423e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_1_23  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_23  OBJ        7.052683679137e+00
+    zij_1_23  OBJ        6.789506264714e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_1_24  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_24  OBJ        3.478812638420e+00
+    zij_1_24  OBJ        2.902627783287e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_1_25  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_25  OBJ        3.253357631628e+00
+    zij_1_25  OBJ        2.318292234640e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_1_26  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_26  OBJ        3.592908845871e+00
+    zij_1_26  OBJ        3.583229785939e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_1_27  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_27  OBJ        3.160839664865e+00
+    zij_1_27  OBJ        3.426560221585e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_1_28  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_28  OBJ        4.004133678431e+00
+    zij_1_28  OBJ        1.193879034415e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_1_29  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_29  OBJ        4.342905788849e+00
+    zij_1_29  OBJ        3.301279113182e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_1_3   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_3   OBJ        6.532157595471e+00
+    zij_1_3   OBJ        2.951675062529e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_1_30  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_30  OBJ        3.698586620558e+00
+    zij_1_30  OBJ        1.058506498552e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_1_31  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_31  OBJ        2.709534842240e+00
+    zij_1_31  OBJ        8.545754530310e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_1_32  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_32  OBJ        4.504122702689e+00
+    zij_1_32  OBJ        2.008029934738e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_1_33  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_33  OBJ        3.673660564254e+00
+    zij_1_33  OBJ        1.414064751390e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_1_34  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_34  OBJ        3.286936344111e+00
+    zij_1_34  OBJ        2.626141465026e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_1_35  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_35  OBJ        9.638276479814e-01
+    zij_1_35  OBJ        2.398096736519e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_1_36  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_36  OBJ        3.034658633208e+00
+    zij_1_36  OBJ        4.616842478551e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_1_37  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_37  OBJ        1.367171903057e+00
+    zij_1_37  OBJ        5.809951449148e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_1_38  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_38  OBJ        1.444633204525e+00
+    zij_1_38  OBJ        4.022248981151e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_1_39  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_39  OBJ        4.370060762098e+00
+    zij_1_39  OBJ        6.842361470248e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_1_4   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_4   OBJ        1.477957340046e+00
+    zij_1_4   OBJ        4.712080238767e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_1_40  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_40  OBJ        5.856905207311e+00
+    zij_1_40  OBJ        1.776507164625e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_1_41  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_41  OBJ        5.969405786667e+00
+    zij_1_41  OBJ        2.615453695057e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_1_42  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_42  OBJ        1.821425150983e+00
+    zij_1_42  OBJ        4.467356386198e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_1_43  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_43  OBJ        4.334079137173e+00
+    zij_1_43  OBJ        1.100453688869e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_1_44  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_44  OBJ        6.295680625320e+00
+    zij_1_44  OBJ        1.361669446207e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_1_45  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_45  OBJ        3.635183365457e+00
+    zij_1_45  OBJ        5.709927594021e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_1_46  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_46  OBJ        4.473798126676e+00
+    zij_1_46  OBJ        1.760646641021e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_1_47  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_47  OBJ        2.286542972758e+00
+    zij_1_47  OBJ        3.811392274980e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_1_48  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_48  OBJ        5.160600037596e+00
+    zij_1_48  OBJ        2.830352759238e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_1_49  Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_49  OBJ        7.373637679974e+00
+    zij_1_49  OBJ        5.570434211305e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_1_5   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_5   OBJ        2.078328445629e+00
+    zij_1_5   OBJ        1.082171905999e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_1_6   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_6   OBJ        3.023990321380e+00
+    zij_1_6   OBJ        7.514070608318e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_1_7   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_7   OBJ        5.321715847334e+00
+    zij_1_7   OBJ        8.354181526924e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_1_8   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_8   OBJ        7.166969503095e+00
+    zij_1_8   OBJ        6.905291187674e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_1_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_1_9   Deliver_from_cloud_kitchen_1_to_two_service_stations   1.000000000000e+00
-    zij_1_9   OBJ        2.932153170826e+00
+    zij_1_9   OBJ        2.301037611205e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_20_0  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_0  OBJ        9.986076999050e-01
+    zij_20_0  OBJ        2.079919497588e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_20_1  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_1  OBJ        4.154357632565e+00
+    zij_20_1  OBJ        7.960258338373e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_20_10  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_10  OBJ        4.307704441025e+00
+    zij_20_10  OBJ        6.066425113271e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_20_11  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_11  OBJ        4.424622701253e+00
+    zij_20_11  OBJ        6.169569407024e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_20_12  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_12  OBJ        2.020792930386e+00
+    zij_20_12  OBJ        1.888570111042e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_20_13  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_13  OBJ        8.293664647749e+00
+    zij_20_13  OBJ        8.538098230639e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_20_14  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_14  OBJ        4.784270604655e+00
+    zij_20_14  OBJ        1.499332676921e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_20_15  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_15  OBJ        8.931868981027e+00
+    zij_20_15  OBJ        2.388369678957e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_20_16  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_16  OBJ        6.022702857873e-01
+    zij_20_16  OBJ        3.440757282907e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_20_17  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_17  OBJ        6.633100456388e+00
+    zij_20_17  OBJ        4.707848018102e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_20_18  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_18  OBJ        4.845098573490e+00
+    zij_20_18  OBJ        2.088353409684e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_20_19  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_19  OBJ        3.230784303278e+00
+    zij_20_19  OBJ        4.718683885363e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_20_2  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_2  OBJ        7.175025912919e+00
+    zij_20_2  OBJ        2.647066953205e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_20_20  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_20  OBJ        3.194579120537e+00
+    zij_20_20  OBJ        3.000257780032e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_20_21  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_21  OBJ        4.738953318347e+00
+    zij_20_21  OBJ        3.366457902475e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_20_22  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_22  OBJ        8.301859316800e+00
+    zij_20_22  OBJ        5.512275747428e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_20_23  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_23  OBJ        2.614835236802e+00
+    zij_20_23  OBJ        2.573264155590e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_20_24  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_24  OBJ        2.624045683883e+00
+    zij_20_24  OBJ        7.082548066724e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_20_25  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_25  OBJ        7.429668077950e+00
+    zij_20_25  OBJ        7.229245605267e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_20_26  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_26  OBJ        1.352388351047e+00
+    zij_20_26  OBJ        2.601931641983e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_20_27  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_27  OBJ        3.150109112334e+00
+    zij_20_27  OBJ        8.177112207910e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_20_28  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_28  OBJ        8.850101340911e+00
+    zij_20_28  OBJ        4.017462440230e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_20_29  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_29  OBJ        8.454691431000e+00
+    zij_20_29  OBJ        1.620047868002e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_20_3  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_3  OBJ        2.409386363408e+00
+    zij_20_3  OBJ        7.551500617392e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_20_30  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_30  OBJ        7.728509646159e+00
+    zij_20_30  OBJ        5.795025242140e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_20_31  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_31  OBJ        7.607493239820e+00
+    zij_20_31  OBJ        4.117630752263e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_20_32  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_32  OBJ        8.511339380132e+00
+    zij_20_32  OBJ        2.996220223394e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_20_33  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_33  OBJ        8.254666637243e+00
+    zij_20_33  OBJ        5.000723633564e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_20_34  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_34  OBJ        1.710377133364e+00
+    zij_20_34  OBJ        7.080766169208e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_20_35  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_35  OBJ        5.802224178258e+00
+    zij_20_35  OBJ        7.316974997542e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_20_36  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_36  OBJ        5.525280444172e+00
+    zij_20_36  OBJ        4.847016434322e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_20_37  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_37  OBJ        4.081049035708e+00
+    zij_20_37  OBJ        4.613802886497e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_20_38  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_38  OBJ        4.395368947750e+00
+    zij_20_38  OBJ        7.585702245534e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_20_39  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_39  OBJ        2.541507646871e+00
+    zij_20_39  OBJ        3.135220451023e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_20_4  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_4  OBJ        3.451111296615e+00
+    zij_20_4  OBJ        8.756231100611e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_20_40  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_40  OBJ        1.357411520210e+00
+    zij_20_40  OBJ        3.440065468212e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_20_41  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_41  OBJ        1.543970776167e+00
+    zij_20_41  OBJ        7.053153009817e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_20_42  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_42  OBJ        3.100304899805e+00
+    zij_20_42  OBJ        2.555665972484e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_20_43  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_43  OBJ        7.983327231792e+00
+    zij_20_43  OBJ        4.685423731933e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_20_44  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_44  OBJ        3.090590425095e+00
+    zij_20_44  OBJ        6.243970898110e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_20_45  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_45  OBJ        7.048929582597e+00
+    zij_20_45  OBJ        1.996080242539e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_20_46  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_46  OBJ        1.714646432437e+00
+    zij_20_46  OBJ        6.363446685449e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_20_47  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_47  OBJ        2.686115679471e+00
+    zij_20_47  OBJ        1.659726435982e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_20_48  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_48  OBJ        6.981981790596e-01
+    zij_20_48  OBJ        7.639635385114e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_20_49  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_49  OBJ        2.474106587911e+00
+    zij_20_49  OBJ        4.774534537083e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_20_5  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_5  OBJ        4.046884776111e+00
+    zij_20_5  OBJ        4.837535821009e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_20_6  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_6  OBJ        6.087722051842e+00
+    zij_20_6  OBJ        4.312849481219e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_20_7  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_7  OBJ        4.921732024492e-01
+    zij_20_7  OBJ        5.052488955214e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_20_8  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_8  OBJ        2.318215390261e+00
+    zij_20_8  OBJ        2.085815635365e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_20_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_20_9  Deliver_from_cloud_kitchen_20_to_two_service_stations   1.000000000000e+00
-    zij_20_9  OBJ        2.107415927851e+00
+    zij_20_9  OBJ        3.257020349262e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_21_0  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_0  OBJ        2.208786641946e+00
+    zij_21_0  OBJ        1.276057000718e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_21_1  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_1  OBJ        5.145642415945e+00
+    zij_21_1  OBJ        8.736430357794e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_21_10  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_10  OBJ        5.066985119637e+00
+    zij_21_10  OBJ        6.639397784748e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_21_11  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_11  OBJ        4.635952371581e+00
+    zij_21_11  OBJ        6.665145265047e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_21_12  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_12  OBJ        2.968607732630e+00
+    zij_21_12  OBJ        2.426894337146e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_21_13  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_13  OBJ        8.878534624049e+00
+    zij_21_13  OBJ        9.195182965551e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_21_14  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_14  OBJ        5.051364374930e+00
+    zij_21_14  OBJ        1.855572622547e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_21_15  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_15  OBJ        9.741694564977e+00
+    zij_21_15  OBJ        2.459063848152e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_21_16  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_16  OBJ        1.259989188444e+00
+    zij_21_16  OBJ        3.769852646863e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_21_17  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_17  OBJ        7.018852545715e+00
+    zij_21_17  OBJ        5.174823727369e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_21_18  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_18  OBJ        5.792583119850e+00
+    zij_21_18  OBJ        8.322547948507e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_21_19  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_19  OBJ        3.741102401336e+00
+    zij_21_19  OBJ        5.288646703177e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_21_2  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_2  OBJ        7.719738455232e+00
+    zij_21_2  OBJ        3.553575244382e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_21_20  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_20  OBJ        1.930916482674e+00
+    zij_21_20  OBJ        3.374599226177e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_21_21  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_21  OBJ        5.320427078826e+00
+    zij_21_21  OBJ        3.475327795677e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_21_22  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_22  OBJ        8.971983695930e+00
+    zij_21_22  OBJ        5.895604863716e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_21_23  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_23  OBJ        1.669782587515e+00
+    zij_21_23  OBJ        1.475698720596e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_21_24  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_24  OBJ        2.329756016762e+00
+    zij_21_24  OBJ        7.862616810331e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_21_25  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_25  OBJ        8.220572703494e+00
+    zij_21_25  OBJ        7.698549337050e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_21_26  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_26  OBJ        2.205675981693e+00
+    zij_21_26  OBJ        2.260885367162e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_21_27  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_27  OBJ        2.886026584903e+00
+    zij_21_27  OBJ        8.784543374108e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_21_28  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_28  OBJ        9.395582078623e+00
+    zij_21_28  OBJ        4.700328286520e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_21_29  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_29  OBJ        9.284505057292e+00
+    zij_21_29  OBJ        2.334051848986e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_21_3  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_3  OBJ        1.255130877796e+00
+    zij_21_3  OBJ        8.218946207571e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_21_30  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_30  OBJ        8.562044468951e+00
+    zij_21_30  OBJ        6.118818610988e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_21_31  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_31  OBJ        8.097541678275e+00
+    zij_21_31  OBJ        4.685006644444e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_21_32  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_32  OBJ        9.367335217355e+00
+    zij_21_32  OBJ        3.694120136706e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_21_33  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_33  OBJ        8.939390964724e+00
+    zij_21_33  OBJ        5.765715069821e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_21_34  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_34  OBJ        2.148686116429e+00
+    zij_21_34  OBJ        7.787025042908e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_21_35  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_35  OBJ        6.171736983626e+00
+    zij_21_35  OBJ        7.734102885916e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_21_36  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_36  OBJ        6.525964718923e+00
+    zij_21_36  OBJ        1.074248350404e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_21_37  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_37  OBJ        4.824776210120e+00
+    zij_21_37  OBJ        5.206668176238e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_21_38  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_38  OBJ        5.176766679895e+00
+    zij_21_38  OBJ        8.510760877574e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_21_39  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_39  OBJ        1.827223345746e+00
+    zij_21_39  OBJ        1.896638449910e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_21_4  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_4  OBJ        4.018191255669e+00
+    zij_21_4  OBJ        9.608014604435e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_21_40  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_40  OBJ        2.343885059795e+00
+    zij_21_40  OBJ        4.201637891418e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_21_41  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_41  OBJ        5.870945455114e-01
+    zij_21_41  OBJ        7.763741186819e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_21_42  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_42  OBJ        3.666273445743e+00
+    zij_21_42  OBJ        1.794903105116e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_21_43  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_43  OBJ        8.902939085180e+00
+    zij_21_43  OBJ        4.903771212449e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_21_44  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_44  OBJ        1.830011661789e+00
+    zij_21_44  OBJ        6.753428475830e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_21_45  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_45  OBJ        7.983374793298e+00
+    zij_21_45  OBJ        7.327096729484e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_21_46  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_46  OBJ        1.108168214384e+00
+    zij_21_46  OBJ        7.003499820575e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_21_47  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_47  OBJ        3.115703085030e+00
+    zij_21_47  OBJ        2.797731086069e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_21_48  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_48  OBJ        5.681393154812e-01
+    zij_21_48  OBJ        8.208885579363e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_21_49  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_49  OBJ        2.270457379712e+00
+    zij_21_49  OBJ        5.370993990591e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_21_5  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_5  OBJ        4.951393542598e+00
+    zij_21_5  OBJ        5.054257013809e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_21_6  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_6  OBJ        7.036807231010e+00
+    zij_21_6  OBJ        4.906242722927e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_21_7  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_7  OBJ        9.283173117173e-01
+    zij_21_7  OBJ        5.330110917273e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_21_8  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_8  OBJ        1.956356903761e+00
+    zij_21_8  OBJ        1.677441076903e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_21_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_21_9  Deliver_from_cloud_kitchen_21_to_two_service_stations   1.000000000000e+00
-    zij_21_9  OBJ        2.952085015017e+00
+    zij_21_9  OBJ        4.159957953468e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_22_0  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_0  OBJ        3.188779058188e+00
+    zij_22_0  OBJ        1.995449444440e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_22_1  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_1  OBJ        5.707695407983e+00
+    zij_22_1  OBJ        8.952538259030e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_22_10  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_10  OBJ        5.374944558212e+00
+    zij_22_10  OBJ        6.685996146782e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_22_11  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_11  OBJ        4.421682958301e+00
+    zij_22_11  OBJ        6.631068182183e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_22_12  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_12  OBJ        3.622633678725e+00
+    zij_22_12  OBJ        3.632821976028e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_22_13  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_13  OBJ        8.881390663808e+00
+    zij_22_13  OBJ        9.270154044107e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_22_14  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_14  OBJ        4.863732166813e+00
+    zij_22_14  OBJ        3.052259941860e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_22_15  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_15  OBJ        9.981078072454e+00
+    zij_22_15  OBJ        3.526834509031e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_22_16  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_16  OBJ        2.489492135895e+00
+    zij_22_16  OBJ        3.748219799863e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_22_17  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_17  OBJ        6.862270724189e+00
+    zij_22_17  OBJ        5.177491240634e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_22_18  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_18  OBJ        6.279894549212e+00
+    zij_22_18  OBJ        8.950762297916e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_22_19  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_19  OBJ        3.897536674507e+00
+    zij_22_19  OBJ        5.388997425572e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_22_2  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_2  OBJ        7.705496670316e+00
+    zij_22_2  OBJ        4.112758777543e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_22_20  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_20  OBJ        1.071109617884e+00
+    zij_22_20  OBJ        3.444476911294e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_22_21  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_21  OBJ        5.430858118908e+00
+    zij_22_21  OBJ        3.275042602775e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_22_22  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_22  OBJ        9.065119408278e+00
+    zij_22_22  OBJ        5.778434458560e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_22_23  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_23  OBJ        2.071590907994e+00
+    zij_22_23  OBJ        1.671371141159e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_22_24  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_24  OBJ        1.940212399062e+00
+    zij_22_24  OBJ        8.100275563904e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_22_25  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_25  OBJ        8.463199874860e+00
+    zij_22_25  OBJ        7.607072946175e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_22_26  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_26  OBJ        2.889838000995e+00
+    zij_22_26  OBJ        1.839825278237e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_22_27  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_27  OBJ        2.401459834353e+00
+    zij_22_27  OBJ        8.813232385782e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_22_28  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_28  OBJ        9.347606641030e+00
+    zij_22_28  OBJ        4.949654978313e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_22_29  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_29  OBJ        9.554125679531e+00
+    zij_22_29  OBJ        2.883108031832e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_22_3  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_3  OBJ        1.415845581672e+00
+    zij_22_3  OBJ        8.323793870925e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_22_30  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_30  OBJ        8.847833367324e+00
+    zij_22_30  OBJ        5.933096098173e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_22_31  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_31  OBJ        8.017615843247e+00
+    zij_22_31  OBJ        4.818510495013e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_22_32  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_32  OBJ        9.667003519950e+00
+    zij_22_32  OBJ        4.036250029478e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_22_33  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_33  OBJ        9.049161635514e+00
+    zij_22_33  OBJ        6.048265444553e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_22_34  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_34  OBJ        2.519136556669e+00
+    zij_22_34  OBJ        7.943922979150e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_22_35  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_35  OBJ        6.029099077600e+00
+    zij_22_35  OBJ        7.588811366364e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_22_36  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_36  OBJ        7.057914127872e+00
+    zij_22_36  OBJ        2.030080481936e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_22_37  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_37  OBJ        5.129460223721e+00
+    zij_22_37  OBJ        5.334731743859e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_22_38  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_38  OBJ        5.502763394254e+00
+    zij_22_38  OBJ        8.908188478349e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_22_39  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_39  OBJ        1.096910491907e+00
+    zij_22_39  OBJ        1.463133820378e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_22_4  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_4  OBJ        4.202871909072e+00
+    zij_22_4  OBJ        9.899200267967e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_22_40  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_40  OBJ        3.572045421712e+00
+    zij_22_40  OBJ        4.564523700934e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_22_41  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_41  OBJ        1.522205484572e+00
+    zij_22_41  OBJ        7.925944119890e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_22_42  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_42  OBJ        3.884127297255e+00
+    zij_22_42  OBJ        1.011870984350e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_22_43  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_43  OBJ        9.287452357408e+00
+    zij_22_43  OBJ        4.677866008350e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_22_44  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_44  OBJ        9.428485123244e-01
+    zij_22_44  OBJ        6.730597108903e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_22_45  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_45  OBJ        8.401545942358e+00
+    zij_22_45  OBJ        6.914839335783e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_22_46  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_46  OBJ        1.046342574109e+00
+    zij_22_46  OBJ        7.109238021736e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_22_47  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_47  OBJ        3.274812572746e+00
+    zij_22_47  OBJ        3.654241138180e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_22_48  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_48  OBJ        1.736672705664e+00
+    zij_22_48  OBJ        8.208841191586e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_22_49  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_49  OBJ        3.223166367525e+00
+    zij_22_49  OBJ        5.494173598338e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_22_5  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_5  OBJ        5.421987458897e+00
+    zij_22_5  OBJ        4.817271954874e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_22_6  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_6  OBJ        7.492286613456e+00
+    zij_22_6  OBJ        5.051939888781e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_22_7  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_7  OBJ        2.142373134443e+00
+    zij_22_7  OBJ        5.136611397161e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_22_8  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_8  OBJ        2.858619336269e+00
+    zij_22_8  OBJ        2.601996902060e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_22_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_22_9  Deliver_from_cloud_kitchen_22_to_two_service_stations   1.000000000000e+00
-    zij_22_9  OBJ        3.513303350190e+00
+    zij_22_9  OBJ        4.671552309226e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_23_0  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_0  OBJ        4.540688914376e+00
+    zij_23_0  OBJ        1.971064893942e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_23_1  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_1  OBJ        7.367055818415e+00
+    zij_23_1  OBJ        1.070501906316e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_23_10  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_10  OBJ        7.109970885774e+00
+    zij_23_10  OBJ        8.437461641083e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_23_11  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_11  OBJ        6.142126970804e+00
+    zij_23_11  OBJ        8.373874004036e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_23_12  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_12  OBJ        5.220631457811e+00
+    zij_23_12  OBJ        4.062350316223e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_23_13  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_13  OBJ        1.062473078804e+01
+    zij_23_13  OBJ        1.102116448989e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_23_14  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_14  OBJ        6.586250237214e+00
+    zij_23_14  OBJ        3.522464061350e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_23_15  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_15  OBJ        1.173253484338e+01
+    zij_23_15  OBJ        3.553094371899e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_23_16  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_16  OBJ        3.394431947329e+00
+    zij_23_16  OBJ        5.501231853914e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_23_17  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_17  OBJ        8.578870205161e+00
+    zij_23_17  OBJ        6.928348778235e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_23_18  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_18  OBJ        7.971225025018e+00
+    zij_23_18  OBJ        1.500149259158e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_23_19  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_19  OBJ        5.646715101702e+00
+    zij_23_19  OBJ        7.143306344698e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_23_2  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_2  OBJ        9.448529160593e+00
+    zij_23_2  OBJ        5.761816756464e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_23_20  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_20  OBJ        7.446507953195e-01
+    zij_23_20  OBJ        5.197705838983e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_23_21  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_21  OBJ        7.185112533749e+00
+    zij_23_21  OBJ        5.012279645452e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_23_22  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_22  OBJ        1.081754330407e+01
+    zij_23_22  OBJ        7.510160463035e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_23_23  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_23  OBJ        1.565737876454e+00
+    zij_23_23  OBJ        1.240426118690e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_23_24  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_24  OBJ        3.671588424562e+00
+    zij_23_24  OBJ        9.850556716936e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_23_25  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_25  OBJ        1.021336373500e+01
+    zij_23_25  OBJ        9.336315512148e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_23_26  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_26  OBJ        4.459525210179e+00
+    zij_23_26  OBJ        3.568567434143e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_23_27  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_27  OBJ        4.086536668619e+00
+    zij_23_27  OBJ        1.056009446579e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_23_28  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_28  OBJ        1.108129471382e+01
+    zij_23_28  OBJ        6.692507462602e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_23_29  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_29  OBJ        1.130252222170e+01
+    zij_23_29  OBJ        4.517654529514e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_23_3  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_3  OBJ        1.255485149091e+00
+    zij_23_3  OBJ        1.007721285509e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_23_30  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_30  OBJ        1.059365317435e+01
+    zij_23_30  OBJ        7.647511407491e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_23_31  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_31  OBJ        9.748029310166e+00
+    zij_23_31  OBJ        6.571653055515e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_23_32  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_32  OBJ        1.141179153101e+01
+    zij_23_32  OBJ        5.756207946176e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_23_33  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_33  OBJ        1.080246255886e+01
+    zij_23_33  OBJ        7.789773168615e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_23_34  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_34  OBJ        4.208075799255e+00
+    zij_23_34  OBJ        9.698153286531e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_23_35  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_35  OBJ        7.753839219868e+00
+    zij_23_35  OBJ        9.304946269337e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_23_36  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_36  OBJ        8.735331119255e+00
+    zij_23_36  OBJ        3.396312856701e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_23_37  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_37  OBJ        6.864069777995e+00
+    zij_23_37  OBJ        7.088609210364e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_23_38  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_38  OBJ        7.234841446444e+00
+    zij_23_38  OBJ        1.063330739723e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_23_39  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_39  OBJ        2.791454915505e+00
+    zij_23_39  OBJ        4.483646862035e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_23_4  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_4  OBJ        5.950591688647e+00
+    zij_23_4  OBJ        1.164532739246e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_23_40  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_40  OBJ        4.390927058370e+00
+    zij_23_40  OBJ        6.283512816105e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_23_41  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_41  OBJ        2.105181192292e+00
+    zij_23_41  OBJ        9.680091617819e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_23_42  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_42  OBJ        5.626186434889e+00
+    zij_23_42  OBJ        2.696583926167e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_23_43  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_43  OBJ        1.101622232959e+01
+    zij_23_43  OBJ        6.392476226308e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_23_44  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_44  OBJ        8.587709975332e-01
+    zij_23_44  OBJ        8.474719734605e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_23_45  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_45  OBJ        1.012041972732e+01
+    zij_23_45  OBJ        1.654428683338e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_23_46  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_46  OBJ        2.754891228908e+00
+    zij_23_46  OBJ        8.863220594246e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_23_47  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_47  OBJ        5.020153522570e+00
+    zij_23_47  OBJ        5.120281607458e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_23_48  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_48  OBJ        2.886776655878e+00
+    zij_23_48  OBJ        9.952912264061e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_23_49  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_49  OBJ        3.075515624908e+00
+    zij_23_49  OBJ        7.248262862090e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_23_5  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_5  OBJ        7.115041214229e+00
+    zij_23_5  OBJ        6.527263019198e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_23_6  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_6  OBJ        9.198203571561e+00
+    zij_23_6  OBJ        6.804843853005e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_23_7  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_7  OBJ        3.160980766334e+00
+    zij_23_7  OBJ        6.855254272441e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_23_8  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_8  OBJ        2.718538090525e+00
+    zij_23_8  OBJ        2.583940106635e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_23_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_23_9  Deliver_from_cloud_kitchen_23_to_two_service_stations   1.000000000000e+00
-    zij_23_9  OBJ        5.154140475723e+00
+    zij_23_9  OBJ        6.344955396610e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_0  Deliver_to_service_station_0   1.000000000000e+00
     zij_24_0  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_0  OBJ        1.816998689450e+00
+    zij_24_0  OBJ        1.263155664282e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_1  Deliver_to_service_station_1   1.000000000000e+00
     zij_24_1  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_1  OBJ        4.958351370020e+00
+    zij_24_1  OBJ        8.712652116432e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_24_10  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_10  OBJ        5.043525731656e+00
+    zij_24_10  OBJ        6.737819600548e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_24_11  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_11  OBJ        4.916104458493e+00
+    zij_24_11  OBJ        6.808285717868e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_24_12  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_12  OBJ        2.801127191045e+00
+    zij_24_12  OBJ        1.748962736443e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_24_13  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_13  OBJ        8.976226574593e+00
+    zij_24_13  OBJ        9.249351737016e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_24_14  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_14  OBJ        5.307244248509e+00
+    zij_24_14  OBJ        1.196956699828e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_24_15  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_15  OBJ        9.696274059277e+00
+    zij_24_15  OBJ        1.923587981020e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_24_16  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_16  OBJ        5.761710693988e-01
+    zij_24_16  OBJ        3.980077425394e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_24_17  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_17  OBJ        7.223928710072e+00
+    zij_24_17  OBJ        5.325910381974e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_24_18  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_18  OBJ        5.640778562817e+00
+    zij_24_18  OBJ        1.403256646534e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_24_19  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_19  OBJ        3.853860935041e+00
+    zij_24_19  OBJ        5.382161584508e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_2  Deliver_to_service_station_2   1.000000000000e+00
     zij_24_2  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_2  OBJ        7.838305242140e+00
+    zij_24_2  OBJ        3.421119703682e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_24_20  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_20  OBJ        2.553724833393e+00
+    zij_24_20  OBJ        3.554729366185e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_24_21  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_21  OBJ        5.407432386323e+00
+    zij_24_21  OBJ        3.790191752495e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_24_22  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_22  OBJ        9.017582771644e+00
+    zij_24_22  OBJ        6.096713420192e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_24_23  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_23  OBJ        1.794475001840e+00
+    zij_24_23  OBJ        1.768302517937e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_24_24  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_24  OBJ        2.798505264826e+00
+    zij_24_24  OBJ        7.834668323384e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_24_25  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_25  OBJ        8.185970337673e+00
+    zij_24_25  OBJ        7.860143772685e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_24_26  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_26  OBJ        2.082643657439e+00
+    zij_24_26  OBJ        2.747165300296e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_24_27  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_27  OBJ        3.356361713892e+00
+    zij_24_27  OBJ        8.868461914232e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_24_28  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_28  OBJ        9.517632448466e+00
+    zij_24_28  OBJ        4.722536704698e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_24_29  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_29  OBJ        9.224575187155e+00
+    zij_24_29  OBJ        2.298803834154e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_3  Deliver_to_service_station_3   1.000000000000e+00
     zij_24_3  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_3  OBJ        1.625625971386e+00
+    zij_24_3  OBJ        8.264722913425e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_24_30  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_30  OBJ        8.498541174633e+00
+    zij_24_30  OBJ        6.352554450858e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_24_31  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_31  OBJ        8.248593957791e+00
+    zij_24_31  OBJ        4.775669930160e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_24_32  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_32  OBJ        9.288881343964e+00
+    zij_24_32  OBJ        3.697661037691e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_24_33  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_33  OBJ        8.975709421975e+00
+    zij_24_33  OBJ        5.741828263535e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_24_34  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_34  OBJ        2.257299943881e+00
+    zij_24_34  OBJ        7.807280214004e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_24_35  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_35  OBJ        6.381694208442e+00
+    zij_24_35  OBJ        7.924687247242e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_24_36  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_36  OBJ        6.333534764495e+00
+    zij_24_36  OBJ        9.323311137024e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_24_37  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_37  OBJ        4.809860006096e+00
+    zij_24_37  OBJ        5.286285633978e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_24_38  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_38  OBJ        5.139504914738e+00
+    zij_24_38  OBJ        8.380267845598e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_24_39  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_39  OBJ        2.443747757155e+00
+    zij_24_39  OBJ        2.393066618050e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_4  Deliver_to_service_station_4   1.000000000000e+00
     zij_24_4  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_4  OBJ        4.102523502891e+00
+    zij_24_4  OBJ        9.532846742303e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_24_40  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_40  OBJ        1.652213186429e+00
+    zij_24_40  OBJ        4.170873406399e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_24_41  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_41  OBJ        7.484461527375e-01
+    zij_24_41  OBJ        7.781170840891e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_24_42  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_42  OBJ        3.746731963249e+00
+    zij_24_42  OBJ        2.426111345728e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_24_43  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_43  OBJ        8.776990581583e+00
+    zij_24_43  OBJ        5.182876891169e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_24_44  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_44  OBJ        2.465430524992e+00
+    zij_24_44  OBJ        6.889045887549e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_24_45  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_45  OBJ        7.845118345435e+00
+    zij_24_45  OBJ        1.385691377872e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_24_46  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_46  OBJ        1.646394403488e+00
+    zij_24_46  OBJ        7.062993711828e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_24_47  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_47  OBJ        3.261389959579e+00
+    zij_24_47  OBJ        2.479206472027e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_24_48  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_48  OBJ        4.090046372499e-01
+    zij_24_48  OBJ        8.314354577115e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_24_49  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_49  OBJ        1.859518608272e+00
+    zij_24_49  OBJ        5.449510570407e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_5  Deliver_to_service_station_5   1.000000000000e+00
     zij_24_5  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_5  OBJ        4.828772865606e+00
+    zij_24_5  OBJ        5.335419498902e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_6  Deliver_to_service_station_6   1.000000000000e+00
     zij_24_6  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_6  OBJ        6.886048639351e+00
+    zij_24_6  OBJ        4.983502735875e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_7  Deliver_to_service_station_7   1.000000000000e+00
     zij_24_7  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_7  OBJ        3.368572214778e-01
+    zij_24_7  OBJ        5.582753925673e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_8  Deliver_to_service_station_8   1.000000000000e+00
     zij_24_8  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_8  OBJ        1.625634999465e+00
+    zij_24_8  OBJ        1.364160776461e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_24_9  Deliver_to_service_station_9   1.000000000000e+00
     zij_24_9  Deliver_from_cloud_kitchen_24_to_two_service_stations   1.000000000000e+00
-    zij_24_9  OBJ        2.853306142714e+00
+    zij_24_9  OBJ        4.034524645713e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_2_0   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_0   OBJ        4.722350337785e+00
+    zij_2_0   OBJ        7.460397549207e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_2_1   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_1   OBJ        1.910492923246e+00
+    zij_2_1   OBJ        2.486330092021e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_2_10  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_10  OBJ        1.209304815040e+00
+    zij_2_10  OBJ        1.028493644525e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_2_11  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_11  OBJ        2.682754653096e+00
+    zij_2_11  OBJ        1.435165637137e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_2_12  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_12  OBJ        3.522313388418e+00
+    zij_2_12  OBJ        7.085501505670e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_2_13  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_13  OBJ        2.884149106647e+00
+    zij_2_13  OBJ        3.037229550243e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_2_14  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_14  OBJ        2.379829983575e+00
+    zij_2_14  OBJ        6.912405607861e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_2_15  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_15  OBJ        3.503695263095e+00
+    zij_2_15  OBJ        7.820765712065e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_2_16  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_16  OBJ        6.098298020045e+00
+    zij_2_16  OBJ        2.816900376730e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_2_17  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_17  OBJ        2.171356471700e+00
+    zij_2_17  OBJ        1.608188386392e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_2_18  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_18  OBJ        1.380376246460e+00
+    zij_2_18  OBJ        6.925118457234e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_2_19  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_19  OBJ        2.586849612985e+00
+    zij_2_19  OBJ        1.210758642611e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_2_2   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_2   OBJ        1.947310176959e+00
+    zij_2_2   OBJ        2.902696468481e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_2_20  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_20  OBJ        7.548027274354e+00
+    zij_2_20  OBJ        3.047683854001e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_2_21  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_21  OBJ        1.155529043144e+00
+    zij_2_21  OBJ        3.428139624754e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_2_22  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_22  OBJ        2.794742839606e+00
+    zij_2_22  OBJ        1.807307775536e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_2_23  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_23  OBJ        7.916922743983e+00
+    zij_2_23  OBJ        7.712791601452e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_2_24  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_24  OBJ        4.676359137662e+00
+    zij_2_24  OBJ        1.619359169389e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_2_25  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_25  OBJ        1.981471059074e+00
+    zij_2_25  OBJ        2.240814916983e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_2_26  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_26  OBJ        4.173048790329e+00
+    zij_2_26  OBJ        4.779570410272e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_2_27  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_27  OBJ        4.460928558120e+00
+    zij_2_27  OBJ        2.736052848690e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_2_28  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_28  OBJ        3.487900280735e+00
+    zij_2_28  OBJ        1.554572226418e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_2_29  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_29  OBJ        3.069778198303e+00
+    zij_2_29  OBJ        3.955306137334e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_2_3   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_3   OBJ        7.469831855141e+00
+    zij_2_3   OBJ        2.053771818797e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_2_30  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_30  OBJ        2.367601377215e+00
+    zij_2_30  OBJ        2.124754428426e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_2_31  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_31  OBJ        2.482884604355e+00
+    zij_2_31  OBJ        1.686140118890e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_2_32  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_32  OBJ        3.188314655653e+00
+    zij_2_32  OBJ        2.562199925974e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_2_33  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_33  OBJ        2.741273991123e+00
+    zij_2_33  OBJ        5.295022754809e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_2_34  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_34  OBJ        4.108346469463e+00
+    zij_2_34  OBJ        1.564944518861e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_2_35  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_35  OBJ        1.912080507725e+00
+    zij_2_35  OBJ        2.499880016455e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_2_36  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_36  OBJ        1.732957477311e+00
+    zij_2_36  OBJ        5.323681941947e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_2_37  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_37  OBJ        1.439617635670e+00
+    zij_2_37  OBJ        1.209046343145e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_2_38  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_38  OBJ        1.129653559539e+00
+    zij_2_38  OBJ        2.564995312361e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_2_39  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_39  OBJ        5.553572722512e+00
+    zij_2_39  OBJ        7.893081371044e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_2_4   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_4   OBJ        2.282631056892e+00
+    zij_2_4   OBJ        3.417116219923e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_2_40  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_40  OBJ        6.177169765023e+00
+    zij_2_40  OBJ        2.079484846484e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_2_41  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_41  OBJ        6.795362343073e+00
+    zij_2_41  OBJ        1.536558967106e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_2_42  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_42  OBJ        2.613851021743e+00
+    zij_2_42  OBJ        5.650398929520e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_2_43  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_43  OBJ        2.902159308769e+00
+    zij_2_43  OBJ        2.591712497605e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_2_44  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_44  OBJ        7.420280082720e+00
+    zij_2_44  OBJ        1.408847785858e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_2_45  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_45  OBJ        2.150015890085e+00
+    zij_2_45  OBJ        6.692213188292e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_2_46  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_46  OBJ        5.488112972661e+00
+    zij_2_46  OBJ        9.784051846699e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_2_47  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_47  OBJ        3.213826985341e+00
+    zij_2_47  OBJ        4.079380892403e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_2_48  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_48  OBJ        5.911732105918e+00
+    zij_2_48  OBJ        2.297188117480e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_2_49  Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_49  OBJ        7.981426402470e+00
+    zij_2_49  OBJ        1.077077467893e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_2_5   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_5   OBJ        1.658656205846e+00
+    zij_2_5   OBJ        2.571643995393e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_2_6   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_6   OBJ        1.565297617029e+00
+    zij_2_6   OBJ        1.453214133838e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_2_7   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_7   OBJ        5.976823151983e+00
+    zij_2_7   OBJ        2.294233180105e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_2_8   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_8   OBJ        7.834073478358e+00
+    zij_2_8   OBJ        7.594055569562e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_2_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_2_9   Deliver_from_cloud_kitchen_2_to_two_service_stations   1.000000000000e+00
-    zij_2_9   OBJ        3.409620440928e+00
+    zij_2_9   OBJ        2.333108666109e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_3_0   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_0   OBJ        4.818229829240e+00
+    zij_3_0   OBJ        7.666218939551e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_3_1   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_1   OBJ        1.767561487383e+00
+    zij_3_1   OBJ        2.295236078628e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_3_10  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_10  OBJ        1.436664589820e+00
+    zij_3_10  OBJ        1.479099210041e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_3_11  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_11  OBJ        3.186946508013e+00
+    zij_3_11  OBJ        1.908368671547e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_3_12  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_12  OBJ        3.651655349728e+00
+    zij_3_12  OBJ        7.144733579330e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_3_13  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_13  OBJ        2.986413196168e+00
+    zij_3_13  OBJ        3.025396517244e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_3_14  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_14  OBJ        2.904632371129e+00
+    zij_3_14  OBJ        7.014594111533e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_3_15  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_15  OBJ        3.264036401472e+00
+    zij_3_15  OBJ        7.916824743827e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_3_16  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_16  OBJ        6.235484718231e+00
+    zij_3_16  OBJ        3.224525219179e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_3_17  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_17  OBJ        2.632821133390e+00
+    zij_3_17  OBJ        2.115810013702e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_3_18  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_18  OBJ        1.106143059518e+00
+    zij_3_18  OBJ        7.196580610355e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_3_19  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_19  OBJ        2.928727158691e+00
+    zij_3_19  OBJ        1.694280406633e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_3_2   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_2   OBJ        2.215469673700e+00
+    zij_3_2   OBJ        3.024508457008e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_3_20  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_20  OBJ        7.877717010162e+00
+    zij_3_20  OBJ        3.407088039245e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_3_21  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_21  OBJ        1.637125881446e+00
+    zij_3_21  OBJ        3.854858212808e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_3_22  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_22  OBJ        2.773525677131e+00
+    zij_3_22  OBJ        2.349213850509e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_3_23  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_23  OBJ        8.142274447398e+00
+    zij_3_23  OBJ        7.961998409823e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_3_24  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_24  OBJ        5.056236608636e+00
+    zij_3_24  OBJ        1.422303734196e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_3_25  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_25  OBJ        1.760964113662e+00
+    zij_3_25  OBJ        2.580223728808e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_3_26  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_26  OBJ        4.350068070553e+00
+    zij_3_26  OBJ        5.157789845332e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_3_27  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_27  OBJ        4.881149294569e+00
+    zij_3_27  OBJ        2.815263998193e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_3_28  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_28  OBJ        3.604825917994e+00
+    zij_3_28  OBJ        1.863028900638e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_3_29  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_29  OBJ        2.796173859662e+00
+    zij_3_29  OBJ        4.164054288767e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_3_3   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_3   OBJ        7.726233600463e+00
+    zij_3_3   OBJ        2.082400940004e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_3_30  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_30  OBJ        2.072062361726e+00
+    zij_3_30  OBJ        2.660663135879e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_3_31  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_31  OBJ        2.759180464653e+00
+    zij_3_31  OBJ        2.091066792127e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_3_32  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_32  OBJ        2.878499450274e+00
+    zij_3_32  OBJ        2.805495730071e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_3_33  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_33  OBJ        2.699130636056e+00
+    zij_3_33  OBJ        7.684692856607e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_3_34  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_34  OBJ        4.369127722953e+00
+    zij_3_34  OBJ        1.553460051050e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_3_35  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_35  OBJ        2.444920697450e+00
+    zij_3_35  OBJ        2.870251083128e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_3_36  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_36  OBJ        1.248666853147e+00
+    zij_3_36  OBJ        5.519492243915e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_3_37  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_37  OBJ        1.682577265375e+00
+    zij_3_37  OBJ        1.666612202334e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_3_38  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_38  OBJ        1.316833849393e+00
+    zij_3_38  OBJ        2.128706814471e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_3_39  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_39  OBJ        5.919126862430e+00
+    zij_3_39  OBJ        8.190416435284e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_3_4   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_4   OBJ        2.620113551074e+00
+    zij_3_4   OBJ        3.118045252074e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_3_40  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_40  OBJ        6.220536994095e+00
+    zij_3_40  OBJ        2.289261479100e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_3_41  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_41  OBJ        7.015530416244e+00
+    zij_3_41  OBJ        1.517155264349e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_3_42  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_42  OBJ        2.924938236444e+00
+    zij_3_42  OBJ        6.014922540268e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_3_43  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_43  OBJ        2.491564590083e+00
+    zij_3_43  OBJ        3.111740441168e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_3_44  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_44  OBJ        7.749510875513e+00
+    zij_3_44  OBJ        1.863735227412e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_3_45  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_45  OBJ        1.670299723808e+00
+    zij_3_45  OBJ        6.971614699933e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_3_46  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_46  OBJ        5.791592064398e+00
+    zij_3_46  OBJ        1.262931368159e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_3_47  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_47  OBJ        3.536305674798e+00
+    zij_3_47  OBJ        4.149997188535e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_3_48  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_48  OBJ        6.114585627847e+00
+    zij_3_48  OBJ        2.475987057524e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_3_49  Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_49  OBJ        8.110338872041e+00
+    zij_3_49  OBJ        1.556979104891e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_3_5   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_5   OBJ        1.657464705074e+00
+    zij_3_5   OBJ        3.099301087033e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_3_6   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_6   OBJ        1.022300888802e+00
+    zij_3_6   OBJ        1.867843313081e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_3_7   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_7   OBJ        6.144132536583e+00
+    zij_3_7   OBJ        2.830612455618e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_3_8   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_8   OBJ        7.986164574741e+00
+    zij_3_8   OBJ        7.756167471077e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_3_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_3_9   Deliver_from_cloud_kitchen_3_to_two_service_stations   1.000000000000e+00
-    zij_3_9   OBJ        3.579139531166e+00
+    zij_3_9   OBJ        2.420776680138e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_4_0   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_0   OBJ        5.353232468471e+00
+    zij_4_0   OBJ        8.180721920122e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_4_1   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_1   OBJ        2.295101032045e+00
+    zij_4_1   OBJ        1.763468636741e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_4_10  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_10  OBJ        1.926560107164e+00
+    zij_4_10  OBJ        1.379675055104e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_4_11  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_11  OBJ        3.459274733548e+00
+    zij_4_11  OBJ        1.809001617325e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_4_12  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_12  OBJ        4.180689007893e+00
+    zij_4_12  OBJ        7.683017147182e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_4_13  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_13  OBJ        2.496880808272e+00
+    zij_4_13  OBJ        2.497260744853e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_4_14  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_14  OBJ        3.128454548702e+00
+    zij_4_14  OBJ        7.549824434943e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_4_15  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_15  OBJ        2.749126177419e+00
+    zij_4_15  OBJ        8.452888362518e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_4_16  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_16  OBJ        6.765484329623e+00
+    zij_4_16  OBJ        3.622032416352e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_4_17  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_17  OBJ        2.480276689612e+00
+    zij_4_17  OBJ        2.389057835444e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_4_18  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_18  OBJ        1.609992496013e+00
+    zij_4_18  OBJ        7.686172306976e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_4_19  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_19  OBJ        3.374942746607e+00
+    zij_4_19  OBJ        2.010716410131e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_4_2   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_2   OBJ        1.852774263156e+00
+    zij_4_2   OBJ        3.553667637579e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_4_20  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_20  OBJ        8.336535251975e+00
+    zij_4_20  OBJ        3.842791873855e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_4_21  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_21  OBJ        1.956575614656e+00
+    zij_4_21  OBJ        4.234248248096e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_4_22  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_22  OBJ        2.244527073186e+00
+    zij_4_22  OBJ        2.439090815311e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_4_23  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_23  OBJ        8.650671930534e+00
+    zij_4_23  OBJ        8.461453615185e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_4_24  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_24  OBJ        5.478316272268e+00
+    zij_4_24  OBJ        8.869852882035e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_4_25  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_25  OBJ        1.233463019788e+00
+    zij_4_25  OBJ        2.271289557779e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_4_26  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_26  OBJ        4.869910184324e+00
+    zij_4_26  OBJ        5.581237903324e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_4_27  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_27  OBJ        5.267080698306e+00
+    zij_4_27  OBJ        2.317559650357e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_4_28  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_28  OBJ        3.116411326828e+00
+    zij_4_28  OBJ        2.322917187130e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_4_29  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_29  OBJ        2.294315398649e+00
+    zij_4_29  OBJ        4.674578833682e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_4_3   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_3   OBJ        8.222645082659e+00
+    zij_4_3   OBJ        1.574868522055e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_4_30  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_30  OBJ        1.578879629208e+00
+    zij_4_30  OBJ        2.697034817391e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_4_31  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_31  OBJ        2.385907824472e+00
+    zij_4_31  OBJ        2.489304775401e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_4_32  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_32  OBJ        2.396890581787e+00
+    zij_4_32  OBJ        3.300402657252e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_4_33  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_33  OBJ        2.166513096496e+00
+    zij_4_33  OBJ        1.230415887569e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_4_34  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_34  OBJ        4.860795703625e+00
+    zij_4_34  OBJ        1.043319301530e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_4_35  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_35  OBJ        2.471882833970e+00
+    zij_4_35  OBJ        2.586235487298e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_4_36  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_36  OBJ        1.559650981225e+00
+    zij_4_36  OBJ        6.035557683858e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_4_37  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_37  OBJ        2.170022584684e+00
+    zij_4_37  OBJ        2.014686803049e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_4_38  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_38  OBJ        1.818148430097e+00
+    zij_4_38  OBJ        1.772780372489e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_4_39  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_39  OBJ        6.352667594020e+00
+    zij_4_39  OBJ        8.667855225807e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_4_4   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_4   OBJ        3.068064224921e+00
+    zij_4_4   OBJ        2.630574310087e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_4_40  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_40  OBJ        6.759106111652e+00
+    zij_4_40  OBJ        2.793636908359e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_4_41  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_41  OBJ        7.525127500735e+00
+    zij_4_41  OBJ        1.005132766322e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_4_42  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_42  OBJ        3.389080610158e+00
+    zij_4_42  OBJ        6.449272933807e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_4_43  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_43  OBJ        2.099254842446e+00
+    zij_4_43  OBJ        3.347650681747e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_4_44  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_44  OBJ        8.208566200646e+00
+    zij_4_44  OBJ        1.736846667041e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_4_45  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_45  OBJ        1.400815637617e+00
+    zij_4_45  OBJ        7.457400537072e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_4_46  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_46  OBJ        6.264424034292e+00
+    zij_4_46  OBJ        9.981848078694e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_4_47  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_47  OBJ        3.995660559924e+00
+    zij_4_47  OBJ        4.686907874214e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_4_48  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_48  OBJ        6.629072774483e+00
+    zij_4_48  OBJ        2.037209013695e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_4_49  Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_49  OBJ        8.642402455639e+00
+    zij_4_49  OBJ        1.879219183511e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_4_5   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_5   OBJ        2.195541046207e+00
+    zij_4_5   OBJ        3.312253647225e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_4_6   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_6   OBJ        1.098062595681e+00
+    zij_4_6   OBJ        2.257310427508e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_4_7   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_7   OBJ        6.668017206929e+00
+    zij_4_7   OBJ        3.010385412155e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_4_8   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_8   OBJ        8.514153246346e+00
+    zij_4_8   OBJ        8.282011355816e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_4_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_4_9   Deliver_from_cloud_kitchen_4_to_two_service_stations   1.000000000000e+00
-    zij_4_9   OBJ        4.099569600640e+00
+    zij_4_9   OBJ        2.953547629559e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_5_0   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_0   OBJ        5.795477094963e+00
+    zij_5_0   OBJ        8.616024236320e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_5_1   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_1   OBJ        2.722229544398e+00
+    zij_5_1   OBJ        1.322834845538e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_5_10  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_10  OBJ        2.356878441486e+00
+    zij_5_10  OBJ        1.495236571573e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_5_11  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_11  OBJ        3.761583805606e+00
+    zij_5_11  OBJ        1.891057225778e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_5_12  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_12  OBJ        4.622008266164e+00
+    zij_5_12  OBJ        8.124090839796e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_5_13  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_13  OBJ        2.141129779191e+00
+    zij_5_13  OBJ        2.083114893121e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_5_14  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_14  OBJ        3.403388493471e+00
+    zij_5_14  OBJ        7.992069513671e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_5_15  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_15  OBJ        2.319205012988e+00
+    zij_5_15  OBJ        8.895091111164e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_5_16  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_16  OBJ        7.206892367641e+00
+    zij_5_16  OBJ        3.999143244571e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_5_17  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_17  OBJ        2.486062311788e+00
+    zij_5_17  OBJ        2.707205753023e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_5_18  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_18  OBJ        2.024006074196e+00
+    zij_5_18  OBJ        8.108864960539e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_5_19  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_19  OBJ        3.779781288384e+00
+    zij_5_19  OBJ        2.360957337309e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_5_2   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_2   OBJ        1.674263851102e+00
+    zij_5_2   OBJ        3.995092128633e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_5_20  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_20  OBJ        8.741193513840e+00
+    zij_5_20  OBJ        4.240402975559e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_5_21  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_21  OBJ        2.309626353975e+00
+    zij_5_21  OBJ        4.597839289189e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_5_22  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_22  OBJ        1.829823983587e+00
+    zij_5_22  OBJ        2.637616233697e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_5_23  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_23  OBJ        9.082970947794e+00
+    zij_5_23  OBJ        8.889205302786e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_5_24  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_24  OBJ        5.863973392324e+00
+    zij_5_24  OBJ        4.451874024036e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_5_25  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_25  OBJ        7.974990805985e-01
+    zij_5_25  OBJ        2.134579933760e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_5_26  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_26  OBJ        5.308096381044e+00
+    zij_5_26  OBJ        5.967522427756e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_5_27  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_27  OBJ        5.631102446285e+00
+    zij_5_27  OBJ        1.952282113258e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_5_28  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_28  OBJ        2.756756105956e+00
+    zij_5_28  OBJ        2.739157509322e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_5_29  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_29  OBJ        1.876987896905e+00
+    zij_5_29  OBJ        5.108989098133e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_5_3   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_3   OBJ        8.648844178693e+00
+    zij_5_3   OBJ        1.206353399483e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_5_30  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_30  OBJ        1.177327114630e+00
+    zij_5_30  OBJ        2.849490652836e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_5_31  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_31  OBJ        2.175666139495e+00
+    zij_5_31  OBJ        2.874775176837e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_5_32  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_32  OBJ        1.997818452128e+00
+    zij_5_32  OBJ        3.729129599676e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_5_33  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_33  OBJ        1.745023212941e+00
+    zij_5_33  OBJ        1.657511400616e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_5_34  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_34  OBJ        5.286193055060e+00
+    zij_5_34  OBJ        6.917299868255e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_5_35  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_35  OBJ        2.623747765231e+00
+    zij_5_35  OBJ        2.465045297570e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_5_36  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_36  OBJ        1.862860931849e+00
+    zij_5_36  OBJ        6.471929406470e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_5_37  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_37  OBJ        2.598432461015e+00
+    zij_5_37  OBJ        2.381198591929e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_5_38  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_38  OBJ        2.252751104235e+00
+    zij_5_38  OBJ        1.517569053771e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_5_39  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_39  OBJ        6.743833860647e+00
+    zij_5_39  OBJ        9.083329942771e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_5_4   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_4   OBJ        3.474990591666e+00
+    zij_5_4   OBJ        2.224528826357e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_5_40  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_40  OBJ        7.199402064730e+00
+    zij_5_40  OBJ        3.227106801641e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_5_41  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_41  OBJ        7.958221976555e+00
+    zij_5_41  OBJ        6.519257134809e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_5_42  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_42  OBJ        3.803021624470e+00
+    zij_5_42  OBJ        6.840804191494e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_5_43  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_43  OBJ        1.794388748289e+00
+    zij_5_43  OBJ        3.627610037067e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_5_44  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_44  OBJ        8.613442146142e+00
+    zij_5_44  OBJ        1.800393766777e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_5_45  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_45  OBJ        1.262536015211e+00
+    zij_5_45  OBJ        7.878099660691e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_5_46  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_46  OBJ        6.678638169768e+00
+    zij_5_46  OBJ        1.015627106480e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_5_47  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_47  OBJ        4.405604860767e+00
+    zij_5_47  OBJ        5.128925098957e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_5_48  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_48  OBJ        7.064626349536e+00
+    zij_5_48  OBJ        1.757927318484e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_5_49  Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_49  OBJ        9.084261457337e+00
+    zij_5_49  OBJ        2.235542651401e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_5_5   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_5   OBJ        2.636891933768e+00
+    zij_5_5   OBJ        3.577478766420e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_5_6   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_6   OBJ        1.293145503910e+00
+    zij_5_6   OBJ        2.640886730891e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_5_7   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_7   OBJ        7.107450063575e+00
+    zij_5_7   OBJ        3.257904215493e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_5_8   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_8   OBJ        8.954906179739e+00
+    zij_5_8   OBJ        8.722043684888e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_5_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_5_9   Deliver_from_cloud_kitchen_5_to_two_service_stations   1.000000000000e+00
-    zij_5_9   OBJ        4.538193556958e+00
+    zij_5_9   OBJ        3.395672326726e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_6_0   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_0   OBJ        8.238402436011e+00
+    zij_6_0   OBJ        1.103627401981e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_6_1   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_1   OBJ        5.122622892487e+00
+    zij_6_1   OBJ        1.129732501841e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_6_10  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_10  OBJ        4.777844183027e+00
+    zij_6_10  OBJ        3.352352334458e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_6_11  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_11  OBJ        5.786453469634e+00
+    zij_6_11  OBJ        3.529581336190e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_6_12  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_12  OBJ        7.063619385440e+00
+    zij_6_12  OBJ        1.055990085751e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_6_13  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_13  OBJ        1.624237056948e+00
+    zij_6_13  OBJ        9.897807650323e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_6_14  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_14  OBJ        5.363921928970e+00
+    zij_6_14  OBJ        1.043492089821e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_6_15  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_15  OBJ        5.841583875307e-01
+    zij_6_15  OBJ        1.133731437494e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_6_16  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_16  OBJ        9.648436362688e+00
+    zij_6_16  OBJ        6.252086420315e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_6_17  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_17  OBJ        3.688039290520e+00
+    zij_6_17  OBJ        4.846229137460e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_6_18  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_18  OBJ        4.404725088812e+00
+    zij_6_18  OBJ        1.048240694468e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_6_19  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_19  OBJ        6.120372260903e+00
+    zij_6_19  OBJ        4.603823476816e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_6_2   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_2   OBJ        2.551996972948e+00
+    zij_6_2   OBJ        6.437041941349e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_6_20  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_20  OBJ        1.104200853344e+01
+    zij_6_20  OBJ        6.552491305670e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_6_21  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_21  OBJ        4.562159683215e+00
+    zij_6_21  OBJ        6.792897395918e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_6_22  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_22  OBJ        1.060800723818e+00
+    zij_6_22  OBJ        4.446121750277e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_6_23  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_23  OBJ        1.149155096339e+01
+    zij_6_23  OBJ        1.128059031313e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_6_24  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_24  OBJ        8.113931373425e+00
+    zij_6_24  OBJ        1.998536696133e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_6_25  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_25  OBJ        1.667405629581e+00
+    zij_6_25  OBJ        2.908328456451e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_6_26  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_26  OBJ        7.740721357658e+00
+    zij_6_26  OBJ        8.218513585410e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_6_27  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_27  OBJ        7.806280980328e+00
+    zij_6_27  OBJ        1.532602364941e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_6_28  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_28  OBJ        1.768706158148e+00
+    zij_6_28  OBJ        5.124848257704e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_6_29  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_29  OBJ        9.475261141239e-01
+    zij_6_29  OBJ        7.530312809903e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_6_3   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_3   OBJ        1.103465620484e+01
+    zij_6_3   OBJ        1.705509353526e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_6_30  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_30  OBJ        1.507647723612e+00
+    zij_6_30  OBJ        4.479201900160e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_6_31  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_31  OBJ        2.580239667297e+00
+    zij_6_31  OBJ        5.181465947180e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_6_32  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_32  OBJ        1.127879880401e+00
+    zij_6_32  OBJ        6.138121077467e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_6_33  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_33  OBJ        1.019087548426e+00
+    zij_6_33  OBJ        4.079391498449e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_6_34  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_34  OBJ        7.678219210547e+00
+    zij_6_34  OBJ        2.049907780230e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_6_35  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_35  OBJ        4.291058258545e+00
+    zij_6_35  OBJ        3.154824624056e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_6_36  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_36  OBJ        4.018099031743e+00
+    zij_6_36  OBJ        8.897742432051e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_6_37  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_37  OBJ        5.013557633856e+00
+    zij_6_37  OBJ        4.660914841737e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_6_38  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_38  OBJ        4.682829358445e+00
+    zij_6_38  OBJ        2.144584412968e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_6_39  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_39  OBJ        9.004913111788e+00
+    zij_6_39  OBJ        1.142608556055e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_6_4   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_4   OBJ        5.825953915074e+00
+    zij_6_4   OBJ        1.012989750521e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_6_40  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_40  OBJ        9.631795104404e+00
+    zij_6_40  OBJ        5.650687753553e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_6_41  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_41  OBJ        1.037098103278e+01
+    zij_6_41  OBJ        2.069504418590e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_6_42  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_42  OBJ        6.169716387966e+00
+    zij_6_42  OBJ        9.102406428429e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_6_43  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_43  OBJ        1.895172054779e+00
+    zij_6_43  OBJ        5.588149388367e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_6_44  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_44  OBJ        1.091568907749e+01
+    zij_6_44  OBJ        3.417887747963e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_6_45  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_45  OBJ        2.549811522837e+00
+    zij_6_45  OBJ        1.024467861655e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_6_46  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_46  OBJ        9.025615802583e+00
+    zij_6_46  OBJ        2.891262550645e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_6_47  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_47  OBJ        6.754089313837e+00
+    zij_6_47  OBJ        7.570144707169e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_6_48  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_48  OBJ        9.487090632014e+00
+    zij_6_48  OBJ        2.100246045694e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_6_49  Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_49  OBJ        1.152689861786e+01
+    zij_6_49  OBJ        4.499992689591e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_6_5   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_5   OBJ        5.076413832904e+00
+    zij_6_5   OBJ        5.493459724557e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_6_6   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_6   OBJ        3.347731172796e+00
+    zij_6_6   OBJ        4.950359267812e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_6_7   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_7   OBJ        9.542970159367e+00
+    zij_6_7   OBJ        5.143581277748e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_6_8   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_8   OBJ        1.139431198866e+01
+    zij_6_8   OBJ        1.115910902498e+01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_6_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_6_9   Deliver_from_cloud_kitchen_6_to_two_service_stations   1.000000000000e+00
-    zij_6_9   OBJ        6.972752640774e+00
+    zij_6_9   OBJ        5.838812063095e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_7_0   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_0   OBJ        1.943380789468e+00
+    zij_7_0   OBJ        5.008958633157e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_7_1   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_1   OBJ        1.576795359125e+00
+    zij_7_1   OBJ        5.561310462978e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_7_10  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_10  OBJ        2.419979354259e+00
+    zij_7_10  OBJ        4.316291807507e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_7_11  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_11  OBJ        3.969437464221e+00
+    zij_7_11  OBJ        4.599419907950e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_7_12  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_12  OBJ        1.410078126875e+00
+    zij_7_12  OBJ        3.965045686743e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_7_13  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_13  OBJ        6.297631617919e+00
+    zij_7_13  OBJ        6.366923194608e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_7_14  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_14  OBJ        4.083349207221e+00
+    zij_7_14  OBJ        3.966211054727e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_7_15  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_15  OBJ        6.426756262079e+00
+    zij_7_15  OBJ        4.817870181939e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_7_16  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_16  OBJ        3.370174200933e+00
+    zij_7_16  OBJ        3.119648377557e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_7_17  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_17  OBJ        5.268541133280e+00
+    zij_7_17  OBJ        3.521549649314e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_7_18  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_18  OBJ        2.284441892595e+00
+    zij_7_18  OBJ        4.935883004640e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_7_19  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_19  OBJ        2.579729316364e+00
+    zij_7_19  OBJ        3.252555711421e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_7_2   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_2   OBJ        5.361557628518e+00
+    zij_7_2   OBJ        1.295439187365e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_7_20  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_20  OBJ        5.930888856398e+00
+    zij_7_20  OBJ        2.837604197281e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_7_21  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_21  OBJ        3.235596555320e+00
+    zij_7_21  OBJ        3.578311315517e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_7_22  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_22  OBJ        6.114785315516e+00
+    zij_7_22  OBJ        4.342456356610e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_7_23  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_23  OBJ        5.552410270079e+00
+    zij_7_23  OBJ        5.509241816549e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_7_24  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_24  OBJ        3.955266837999e+00
+    zij_7_24  OBJ        4.724607948964e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_7_25  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_25  OBJ        5.026558330269e+00
+    zij_7_25  OBJ        5.591212228973e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_7_26  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_26  OBJ        2.056920372183e+00
+    zij_7_26  OBJ        4.015755515832e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_7_27  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_27  OBJ        4.180199609198e+00
+    zij_7_27  OBJ        6.137495320821e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_7_28  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_28  OBJ        6.908938190396e+00
+    zij_7_28  OBJ        2.465339060426e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_7_29  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_29  OBJ        5.926130277300e+00
+    zij_7_29  OBJ        2.148327344271e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_7_3   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_3   OBJ        5.330833298924e+00
+    zij_7_3   OBJ        5.417585420598e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_7_30  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_30  OBJ        5.220349131545e+00
+    zij_7_30  OBJ        4.717549682834e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_7_31  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_31  OBJ        5.883565387080e+00
+    zij_7_31  OBJ        2.859341180929e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_7_32  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_32  OBJ        5.930491700050e+00
+    zij_7_32  OBJ        1.988726452669e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_7_33  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_33  OBJ        6.038097070588e+00
+    zij_7_33  OBJ        2.922419766913e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_7_34  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_34  OBJ        2.611826359737e+00
+    zij_7_34  OBJ        4.892476231850e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_7_35  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_35  OBJ        4.609888687396e+00
+    zij_7_35  OBJ        5.794882354934e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_7_36  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_36  OBJ        2.779286367227e+00
+    zij_7_36  OBJ        3.037478313378e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_7_37  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_37  OBJ        2.319075537354e+00
+    zij_7_37  OBJ        3.114802991648e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_7_38  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_38  OBJ        2.414048471965e+00
+    zij_7_38  OBJ        4.903878141814e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_7_39  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_39  OBJ        4.502356133184e+00
+    zij_7_39  OBJ        6.003824194124e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_7_4   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_4   OBJ        2.512715334297e+00
+    zij_7_4   OBJ        6.176188218067e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_7_40  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_40  OBJ        3.028338289630e+00
+    zij_7_40  OBJ        1.926137671261e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_7_41  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_41  OBJ        4.480488268169e+00
+    zij_7_41  OBJ        4.856947949567e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_7_42  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_42  OBJ        2.388637305706e+00
+    zij_7_42  OBJ        4.571922098247e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_7_43  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_43  OBJ        5.300075391971e+00
+    zij_7_43  OBJ        4.131654837366e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_7_44  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_44  OBJ        5.811239667933e+00
+    zij_7_44  OBJ        4.628052513690e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_7_45  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_45  OBJ        4.367286606246e+00
+    zij_7_45  OBJ        4.783347620035e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_7_46  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_46  OBJ        3.935944278681e+00
+    zij_7_46  OBJ        4.405163724508e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_7_47  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_47  OBJ        2.627788835512e+00
+    zij_7_47  OBJ        1.312405776152e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_7_48  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_48  OBJ        3.582813822772e+00
+    zij_7_48  OBJ        5.726671553366e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_7_49  Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_49  OBJ        5.111280156337e+00
+    zij_7_49  OBJ        3.220227082537e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_7_5   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_5   OBJ        1.779936905719e+00
+    zij_7_5   OBJ        4.243911404006e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_7_6   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_6   OBJ        3.419197147805e+00
+    zij_7_6   OBJ        2.909100901395e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_7_7   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_7   OBJ        3.426162827954e+00
+    zij_7_7   OBJ        4.253026659996e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_7_8   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_8   OBJ        5.077069975553e+00
+    zij_7_8   OBJ        4.897592079127e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_7_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_7_9   Deliver_from_cloud_kitchen_7_to_two_service_stations   1.000000000000e+00
-    zij_7_9   OBJ        1.639375392416e+00
+    zij_7_9   OBJ        1.366908280219e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_8_0   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_0   OBJ        1.107961840287e+00
+    zij_8_0   OBJ        4.011336900797e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_8_1   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_1   OBJ        2.209472884729e+00
+    zij_8_1   OBJ        6.022291084751e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_8_10  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_10  OBJ        2.415739294653e+00
+    zij_8_10  OBJ        4.275565555121e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_8_11  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_11  OBJ        3.180600272023e+00
+    zij_8_11  OBJ        4.447677450676e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_8_12  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_12  OBJ        1.468248111903e-01
+    zij_8_12  OBJ        3.484466932380e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_8_13  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_13  OBJ        6.456707585594e+00
+    zij_8_13  OBJ        6.652550360722e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_8_14  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_14  OBJ        3.418814036263e+00
+    zij_8_14  OBJ        3.297656425314e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_8_15  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_15  OBJ        6.982195256987e+00
+    zij_8_15  OBJ        4.205290186632e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_8_16  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_16  OBJ        2.509423426225e+00
+    zij_8_16  OBJ        2.197562506793e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_8_17  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_17  OBJ        5.008629783387e+00
+    zij_8_17  OBJ        3.089964480349e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_8_18  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_18  OBJ        2.889168922434e+00
+    zij_8_18  OBJ        3.752425159810e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_8_19  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_19  OBJ        1.750823404615e+00
+    zij_8_19  OBJ        2.982488693509e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_8_2   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_2   OBJ        5.384354250662e+00
+    zij_8_2   OBJ        7.130810577385e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_8_20  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_20  OBJ        4.677306446643e+00
+    zij_8_20  OBJ        1.810558685939e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_8_21  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_21  OBJ        2.989499992697e+00
+    zij_8_21  OBJ        2.494114641105e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_8_22  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_22  OBJ        6.410502863572e+00
+    zij_8_22  OBJ        3.940882696636e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_8_23  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_23  OBJ        4.523311867596e+00
+    zij_8_23  OBJ        4.411980050457e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_8_24  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_24  OBJ        2.650294300509e+00
+    zij_8_24  OBJ        5.146563835356e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_8_25  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_25  OBJ        5.488593453213e+00
+    zij_8_25  OBJ        5.504101535923e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_8_26  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_26  OBJ        7.693241640551e-01
+    zij_8_26  OBJ        2.704509666550e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_8_27  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_27  OBJ        2.926954655566e+00
+    zij_8_27  OBJ        6.325671521416e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_8_28  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_28  OBJ        7.036106711109e+00
+    zij_8_28  OBJ        2.205070249137e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_8_29  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_29  OBJ        6.501621447306e+00
+    zij_8_29  OBJ        8.192719502068e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_8_3   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_3   OBJ        4.205942052383e+00
+    zij_8_3   OBJ        5.667530037521e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_8_30  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_30  OBJ        5.775757339006e+00
+    zij_8_30  OBJ        4.278603221999e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_8_31  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_31  OBJ        5.855841586689e+00
+    zij_8_31  OBJ        2.427054177633e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_8_32  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_32  OBJ        6.554525836874e+00
+    zij_8_32  OBJ        1.276509489388e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_8_33  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_33  OBJ        6.355631701275e+00
+    zij_8_33  OBJ        3.089864930722e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_8_34  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_34  OBJ        1.285556544608e+00
+    zij_8_34  OBJ        5.178656357027e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_8_35  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_35  OBJ        4.231175526962e+00
+    zij_8_35  OBJ        5.639964286328e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_8_36  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_36  OBJ        3.588670117707e+00
+    zij_8_36  OBJ        1.894697628365e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_8_37  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_37  OBJ        2.209019452873e+00
+    zij_8_37  OBJ        2.859283492054e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_8_38  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_38  OBJ        2.486110716000e+00
+    zij_8_38  OBJ        5.629413891627e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_8_39  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_39  OBJ        3.173422257681e+00
+    zij_8_39  OBJ        4.813865335396e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_8_4   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_4   OBJ        1.841846091425e+00
+    zij_8_4   OBJ        6.799707081964e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_8_40  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_40  OBJ        2.603178201996e+00
+    zij_8_40  OBJ        1.586349630264e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_8_41  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_41  OBJ        3.405578789680e+00
+    zij_8_41  OBJ        5.148931489090e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_8_42  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_42  OBJ        1.562873795632e+00
+    zij_8_42  OBJ        3.243520161489e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_8_43  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_43  OBJ        6.026614729032e+00
+    zij_8_43  OBJ        3.398565338573e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_8_44  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_44  OBJ        4.554200798836e+00
+    zij_8_44  OBJ        4.506352304103e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_8_45  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_45  OBJ        5.093590163105e+00
+    zij_8_45  OBJ        3.572986501764e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_8_46  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_46  OBJ        2.631228418321e+00
+    zij_8_46  OBJ        4.512340162695e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_8_47  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_47  OBJ        1.524985702057e+00
+    zij_8_47  OBJ        5.356234922464e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_8_48  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_48  OBJ        2.485179885714e+00
+    zij_8_48  OBJ        5.822037805188e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_8_49  Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_49  OBJ        4.382878420341e+00
+    zij_8_49  OBJ        3.007853880148e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_8_5   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_5   OBJ        2.090490774985e+00
+    zij_8_5   OBJ        3.536009215739e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_8_6   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_6   OBJ        4.134034925534e+00
+    zij_8_6   OBJ        2.576593720675e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_8_7   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_7   OBJ        2.443832113482e+00
+    zij_8_7   OBJ        3.647203928955e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_8_8   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_8   OBJ        4.263395281325e+00
+    zij_8_8   OBJ        4.040330591121e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_8_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_8_9   Deliver_from_cloud_kitchen_8_to_two_service_stations   1.000000000000e+00
-    zij_8_9   OBJ        4.319936394866e-01
+    zij_8_9   OBJ        1.306950493493e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_0   Deliver_to_service_station_0   1.000000000000e+00
     zij_9_0   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_0   OBJ        2.549522360297e+00
+    zij_9_0   OBJ        5.241951902697e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_1   Deliver_to_service_station_1   1.000000000000e+00
     zij_9_1   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_1   OBJ        1.428622941305e+00
+    zij_9_1   OBJ        4.693829824045e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_10  Deliver_to_service_station_10   1.000000000000e+00
     zij_9_10  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_10  OBJ        1.020447183158e+00
+    zij_9_10  OBJ        2.825615669690e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_11  Deliver_to_service_station_11   1.000000000000e+00
     zij_9_11  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_11  OBJ        2.114366729859e+00
+    zij_9_11  OBJ        3.001404716008e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_12  Deliver_to_service_station_12   1.000000000000e+00
     zij_9_12  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_12  OBJ        1.335586280028e+00
+    zij_9_12  OBJ        4.930181611808e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_13  Deliver_to_service_station_13   1.000000000000e+00
     zij_9_13  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_13  OBJ        5.020557347123e+00
+    zij_9_13  OBJ        5.245335215480e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_14  Deliver_to_service_station_14   1.000000000000e+00
     zij_9_14  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_14  OBJ        2.214534751444e+00
+    zij_9_14  OBJ        4.713803253242e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_15  Deliver_to_service_station_15   1.000000000000e+00
     zij_9_15  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_15  OBJ        5.689581204544e+00
+    zij_9_15  OBJ        5.623665157249e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_16  Deliver_to_service_station_16   1.000000000000e+00
     zij_9_16  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_16  OBJ        3.879954035094e+00
+    zij_9_16  OBJ        1.383889511259e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_17  Deliver_to_service_station_17   1.000000000000e+00
     zij_9_17  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_17  OBJ        3.585796416992e+00
+    zij_9_17  OBJ        1.710067851000e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_18  Deliver_to_service_station_18   1.000000000000e+00
     zij_9_18  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_18  OBJ        1.871211216670e+00
+    zij_9_18  OBJ        4.768135820270e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_19  Deliver_to_service_station_19   1.000000000000e+00
     zij_9_19  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_19  OBJ        8.443534565337e-01
+    zij_9_19  OBJ        1.542490966465e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_2   Deliver_to_service_station_2   1.000000000000e+00
     zij_9_2   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_2   OBJ        3.935445327368e+00
+    zij_9_2   OBJ        7.714401902833e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_20  Deliver_to_service_station_20   1.000000000000e+00
     zij_9_20  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_20  OBJ        5.500873166045e+00
+    zij_9_20  OBJ        1.273547830050e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_21  Deliver_to_service_station_21   1.000000000000e+00
     zij_9_21  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_21  OBJ        1.545313195922e+00
+    zij_9_21  OBJ        1.972582275726e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_22  Deliver_to_service_station_22   1.000000000000e+00
     zij_9_22  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_22  OBJ        5.008441025180e+00
+    zij_9_22  OBJ        2.559045864674e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_23  Deliver_to_service_station_23   1.000000000000e+00
     zij_9_23  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_23  OBJ        5.710329776746e+00
+    zij_9_23  OBJ        5.527458656099e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_24  Deliver_to_service_station_24   1.000000000000e+00
     zij_9_24  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_24  OBJ        2.844175903191e+00
+    zij_9_24  OBJ        3.816734594847e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_25  Deliver_to_service_station_25   1.000000000000e+00
     zij_9_25  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_25  OBJ        4.171566179885e+00
+    zij_9_25  OBJ        4.055180237437e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_26  Deliver_to_service_station_26   1.000000000000e+00
     zij_9_26  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_26  OBJ        1.946470139074e+00
+    zij_9_26  OBJ        2.935756898569e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_27  Deliver_to_service_station_27   1.000000000000e+00
     zij_9_27  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_27  OBJ        2.842091421682e+00
+    zij_9_27  OBJ        4.895777824813e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_28  Deliver_to_service_station_28   1.000000000000e+00
     zij_9_28  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_28  OBJ        5.593166713252e+00
+    zij_9_28  OBJ        7.543441684161e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_29  Deliver_to_service_station_29   1.000000000000e+00
     zij_9_29  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_29  OBJ        5.229088128711e+00
+    zij_9_29  OBJ        1.734690599915e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_3   Deliver_to_service_station_3   1.000000000000e+00
     zij_9_3   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_3   OBJ        5.292639516784e+00
+    zij_9_3   OBJ        4.258615651806e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_30  Deliver_to_service_station_30   1.000000000000e+00
     zij_9_30  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_30  OBJ        4.506271033843e+00
+    zij_9_30  OBJ        2.918647654354e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_31  Deliver_to_service_station_31   1.000000000000e+00
     zij_9_31  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_31  OBJ        4.405111380212e+00
+    zij_9_31  OBJ        1.031936975010e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_32  Deliver_to_service_station_32   1.000000000000e+00
     zij_9_32  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_32  OBJ        5.312449164642e+00
+    zij_9_32  OBJ        3.976410944162e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_33  Deliver_to_service_station_33   1.000000000000e+00
     zij_9_33  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_33  OBJ        4.961330169420e+00
+    zij_9_33  OBJ        1.719819465805e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_34  Deliver_to_service_station_34   1.000000000000e+00
     zij_9_34  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_34  OBJ        1.943692748233e+00
+    zij_9_34  OBJ        3.788380472983e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_35  Deliver_to_service_station_35   1.000000000000e+00
     zij_9_35  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_35  OBJ        2.842469708460e+00
+    zij_9_35  OBJ        4.198608111975e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_36  Deliver_to_service_station_36   1.000000000000e+00
     zij_9_36  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_36  OBJ        2.667051242911e+00
+    zij_9_36  OBJ        3.099771594230e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_37  Deliver_to_service_station_37   1.000000000000e+00
     zij_9_37  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_37  OBJ        7.879769219743e-01
+    zij_9_37  OBJ        1.414982067700e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_38  Deliver_to_service_station_38   1.000000000000e+00
     zij_9_38  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_38  OBJ        1.122355887317e+00
+    zij_9_38  OBJ        4.489015711810e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_39  Deliver_to_service_station_39   1.000000000000e+00
     zij_9_39  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_39  OBJ        3.636271397116e+00
+    zij_9_39  OBJ        5.776338237270e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_4   Deliver_to_service_station_4   1.000000000000e+00
     zij_9_4   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_4   OBJ        6.721710477253e-01
+    zij_9_4   OBJ        5.552596840480e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_40  Deliver_to_service_station_40   1.000000000000e+00
     zij_9_40  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_40  OBJ        4.053911284284e+00
+    zij_9_40  OBJ        1.475883171074e-01
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_41  Deliver_to_service_station_41   1.000000000000e+00
     zij_9_41  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_41  OBJ        4.584633324795e+00
+    zij_9_41  OBJ        3.761301953577e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_42  Deliver_to_service_station_42   1.000000000000e+00
     zij_9_42  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_42  OBJ        7.049316710711e-01
+    zij_9_42  OBJ        3.727287852031e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_43  Deliver_to_service_station_43   1.000000000000e+00
     zij_9_43  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_43  OBJ        4.874369856083e+00
+    zij_9_43  OBJ        2.264719484966e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_44  Deliver_to_service_station_44   1.000000000000e+00
     zij_9_44  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_44  OBJ        5.372722058863e+00
+    zij_9_44  OBJ        3.057589807151e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_45  Deliver_to_service_station_45   1.000000000000e+00
     zij_9_45  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_45  OBJ        3.975157593832e+00
+    zij_9_45  OBJ        4.547710789086e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_46  Deliver_to_service_station_46   1.000000000000e+00
     zij_9_46  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_46  OBJ        3.394471910168e+00
+    zij_9_46  OBJ        3.079873744663e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_47  Deliver_to_service_station_47   1.000000000000e+00
     zij_9_47  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_47  OBJ        1.248988837938e+00
+    zij_9_47  OBJ        1.964849104179e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_48  Deliver_to_service_station_48   1.000000000000e+00
     zij_9_48  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_48  OBJ        3.690905220281e+00
+    zij_9_48  OBJ        4.378840950221e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_49  Deliver_to_service_station_49   1.000000000000e+00
     zij_9_49  Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_49  OBJ        5.763361931249e+00
+    zij_9_49  OBJ        1.559607279627e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_5   Deliver_to_service_station_5   1.000000000000e+00
     zij_9_5   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_5   OBJ        1.027210944330e+00
+    zij_9_5   OBJ        2.374870687352e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_6   Deliver_to_service_station_6   1.000000000000e+00
     zij_9_6   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_6   OBJ        3.062744762427e+00
+    zij_9_6   OBJ        1.144418500166e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_7   Deliver_to_service_station_7   1.000000000000e+00
     zij_9_7   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_7   OBJ        3.750203952700e+00
+    zij_9_7   OBJ        2.391868394686e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_8   Deliver_to_service_station_8   1.000000000000e+00
     zij_9_8   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_8   OBJ        5.608747730109e+00
+    zij_9_8   OBJ        5.367449495126e+00
     MARK      'MARKER'                 'INTEND'
     MARK      'MARKER'                 'INTORG'
     zij_9_9   Deliver_to_service_station_9   1.000000000000e+00
     zij_9_9   Deliver_from_cloud_kitchen_9_to_two_service_stations   1.000000000000e+00
-    zij_9_9   OBJ        1.187783387789e+00
+    zij_9_9   OBJ        5.431864972922e-01
     MARK      'MARKER'                 'INTEND'
 RHS
     RHS       Deliver_to_service_station_0   1.000000000000e+00

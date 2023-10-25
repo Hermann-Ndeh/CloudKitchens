@@ -2,22 +2,18 @@ import csv
 import numpy as np
 import pandas as pd
 from mpl_toolkits.basemap import Basemap
-import math
+from math import *
+import random
 import googlemaps
 import matplotlib.pyplot as plt
 from tabulate import tabulate
 from scipy.spatial.distance import euclidean
 from pulp import *
 from scipy.sparse import *
-from math import radians, sin, cos, sqrt, atan2
-
-
-"""
-To run make sure all dependencies imported above are installed
-"""
+from networkx import *
 
 # Constants
-EDGE_OF_MAP_FROM_LOCATION_IN_MILES = 2.5
+EDGE_OF_MAP_FROM_LOCATION = 2.5
 EARTH_RADIUS_IN_MILES = 3959.0
 
 # Global Variables
@@ -27,6 +23,7 @@ mapOfSeattle = None
 fileNameForTable = 'Locations.txt'
 fileNameForMatrix = 'Distances.csv'
 fileNameForTask2 = 'Solution'
+fileNameForOD = 'OD.txt'
 numberOfCloudKitchens = 25
 numberOfServiceStations = 50
 cloudKitchenCoordinates = []
@@ -74,7 +71,7 @@ def createNorthPoint(coordinates, distance):
     :return: the updated list `edgeOfMapCoordinates` after appending the calculated latitude value.
     """
     latitude, longitude = coordinates
-    return edgeOfMapCoordinates.append(latitude + (distance / EARTH_RADIUS_IN_MILES * (180 / math.pi)))
+    return edgeOfMapCoordinates.append(latitude + (distance / EARTH_RADIUS_IN_MILES * (180 / pi)))
 
 def createSouthPoint(coordinates, distance):
     """
@@ -88,7 +85,7 @@ def createSouthPoint(coordinates, distance):
     :return: the updated list `edgeOfMapCoordinates` after appending a new latitude value.
     """
     latitude, longitude = coordinates
-    return edgeOfMapCoordinates.append(latitude - (distance / EARTH_RADIUS_IN_MILES * (180 / math.pi)))
+    return edgeOfMapCoordinates.append(latitude - (distance / EARTH_RADIUS_IN_MILES * (180 / pi)))
 
 def createEastPoint(coordinates, distance):
     """
@@ -210,7 +207,7 @@ def drawAndPlotMap(map_of_seattle):
     x, y = map_of_seattle(cloudKitchenLongitudes, cloudKitchenLatitudes)
     a, b = map_of_seattle(serviceStationLongitudes, serviceStationLatitudes)
     map_of_seattle.scatter(x, y, marker = '.', color = '#41BE1A', label = 'Cloud Kitchens')
-    map_of_seattle.scatter(a, b, marker = '.', color = 'blue', label = 'Service Stations')
+    map_of_seattle.scatter(a, b, marker = '.', color = 'blue', label = 'Service Locations')
 
 def generateServiceStations():
     """
@@ -303,8 +300,9 @@ def taskII(distanceMatrix):
 
     :param distanceMatrix: The parameter "distanceMatrix" is a 2D array containing the distances between each
     cloud kitchen and service station.
-    :return solutionMatrix: the solution matrix, which is a sparse data structure containing the solution to the
-    linear programming problem 
+    :return zij: This variable is used in taskIII() definition.
+    :return solutionMatrix: The solution matrix, which is a sparse data structure containing the solution to the
+    linear programming problem.
     """
 
     I = range(numberOfCloudKitchens)
@@ -313,6 +311,7 @@ def taskII(distanceMatrix):
 
     task2 = LpProblem("Project 1 - Task 2", LpMinimize)
     zij = LpVariable.dicts('zij', (I,J), 0, 1, LpBinary)
+
     task2 += (
         lpSum(lpSum(dij[i][j] * zij[i][j] for i in I for j in J)), "Total Distance"
     )
@@ -337,7 +336,67 @@ def taskII(distanceMatrix):
 
     solutionMatrix = csr_matrix((data, (rows, columns)), shape = (numberOfCloudKitchens, numberOfServiceStations))
     task2.writeMPS("AP.mps")
-    return solutionMatrix
+    return zij, solutionMatrix
+
+def taskIII(distanceMatrix, zij):
+    """
+    The function `taskIII` takes a distance matrix and a binary matrix as input, and generates an
+    origin-destination table based on the binary matrix, calculates the frequency of distances in
+    different ranges, and plots a bar graph of the frequency values.
+    
+    :param distanceMatrix: The distanceMatrix is a 2D array that represents the distances between cloud
+    kitchens and service stations. Each element in the array represents the distance between a cloud
+    kitchen and a service station
+    :param zij: The parameter "zij" is a binary decision variable matrix that represents the assignment
+    of cloud kitchens to service stations. It is a matrix of size (n x m), where n is the number of
+    cloud kitchens and m is the number of service stations. Each element zij[i][j] is a
+    :return: the origin-destination table, which is a list of dictionaries containing information about
+    the cloud kitchens, service stations, and the distance between them.
+    """
+    od_table = []
+    od_dict = {}
+    distanceIndex = 0
+
+    for i in range(len(cloudKitchens)):
+        for j in range(len(serviceStations)):
+            if zij[i][j].value() == 1:
+                od_table.append({cloudKitchens[i]['Index']: i + 1, 
+                                 serviceStations[j]['Index']: j + 1, 
+                                 f"Distance {distanceIndex}": distanceMatrix[i][j]})
+                od_dict[cloudKitchens[i]['Index']] = i + 1
+                od_dict[serviceStations[j]['Index']] = j + 1
+                od_dict[f"Distance {distanceIndex}"] = distanceMatrix[i][j]
+                distanceIndex += 1
+    
+    short_range = (0,3)
+    medium_range = (3,6)
+    long_range = (6,float("inf"))
+
+    short_freq = 0
+    medium_freq = 0
+    long_freq = 0
+    distanceIndex = 0
+
+    for key, value in od_dict.items():
+      if key == f"Distance {distanceIndex}":
+        if short_range[0] <= value < short_range[1]:
+          short_freq += 1
+        if medium_range[0] <= value < medium_range[1]:
+            medium_freq += 1
+        if long_range[0] <= value < long_range[1]:
+            long_freq += 1
+        distanceIndex += 1
+    
+    dist_ranges = ["< 3 miles", "3-6 miles", "> 6 miles"]
+    freq_values = [short_freq, medium_freq, long_freq]
+
+    plt.bar(dist_ranges,freq_values)
+    plt.xlabel("Distance Ranges (miles)")
+    plt.ylabel("Frequency Values")
+    plt.title("Frequency Graph of Origin-Destination Table")
+    plt.savefig('Frequency.jpg', format = 'jpeg', dpi = 300)
+
+    return od_table
 
 def main():
     """
@@ -356,16 +415,16 @@ def main():
     getAddresses()
     getZipCodes()
     coordinatePointS = findSouthLocation(cloudKitchenCoordinates)
-    createSouthPoint(coordinatePointS, EDGE_OF_MAP_FROM_LOCATION_IN_MILES)
+    createSouthPoint(coordinatePointS, EDGE_OF_MAP_FROM_LOCATION)
     coordinatePointN = findNorthLocation(cloudKitchenCoordinates)
-    createNorthPoint(coordinatePointN, EDGE_OF_MAP_FROM_LOCATION_IN_MILES)
+    createNorthPoint(coordinatePointN, EDGE_OF_MAP_FROM_LOCATION)
     coordinatePointE = findEastLocation(cloudKitchenCoordinates)
-    createEastPoint(coordinatePointE, EDGE_OF_MAP_FROM_LOCATION_IN_MILES)
+    createEastPoint(coordinatePointE, EDGE_OF_MAP_FROM_LOCATION)
     coordinatePointW = findWestLocation(cloudKitchenCoordinates)
-    createWestPoint(coordinatePointW, EDGE_OF_MAP_FROM_LOCATION_IN_MILES)
+    createWestPoint(coordinatePointW, EDGE_OF_MAP_FROM_LOCATION)
     generateServiceStations()
-    serviceStationLatitudes = [coordinate[0] for coordinate in serviceStationCoordinates]
-    serviceStationLongitudes = [coordinate[1] for coordinate in serviceStationCoordinates]
+    serviceStationLatitudes = [coord[0] for coord in serviceStationCoordinates]
+    serviceStationLongitudes = [coord[1] for coord in serviceStationCoordinates]
     drawAndPlotMap(createBaseMap(edgeOfMapCoordinates))
 
     for i in range(len(cloudKitchenAddresses)):
@@ -383,7 +442,6 @@ def main():
             'Zip Code': '',
             'Coordinates': serviceStationCoordinates[j]
         })
-
     combined_data = cloudKitchens + serviceStations
     headers = ['Index', 'Street Address', 'Zip Code', 'Coordinates']
     for item in combined_data:
@@ -401,13 +459,19 @@ def main():
         writer = csv.writer(file)
         writer.writerows(distance(cloudKitchens, serviceStations))
 
-    distanceMatrix = distance(cloudKitchens, serviceStations)
-    save_npz(fileNameForTask2, taskII(distanceMatrix))
-
     plt.title('Cloud Kitchen Locations')
     plt.legend(loc = 'best')
     plt.savefig('Locations.jpg', format = 'jpeg', dpi = 300)
-    plt.show()
+    plt.close()
+
+    distanceMatrix = distance(cloudKitchens, serviceStations)
+    zij, solutionMatrix = taskII(distanceMatrix)
+    save_npz(fileNameForTask2, solutionMatrix)
+
+    od_table = taskIII(distanceMatrix, zij)
+    with open(fileNameForOD, 'w') as file:
+        od_table = tabulate(od_table, headers = "keys", tablefmt = "simple")   
+        file.write(od_table)
 
 if __name__ == '__main__':
     main()
