@@ -1,3 +1,8 @@
+'''
+__author__ = Hermann Ndeh
+__author__ = Sharon Gilman
+__author__ = Virginia Jackson
+'''
 import csv
 import numpy as np
 import pandas as pd
