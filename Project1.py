@@ -2,6 +2,9 @@
 __author__ = Hermann Ndeh
 __author__ = Sharon Gilman
 __author__ = Virginia Jackson
+
+Make sure all dependencies imported below are installed before running this script, you will need
+a google API key with the googlemaps API configured to it.
 '''
 import csv
 import googlemaps
@@ -19,8 +22,9 @@ EDGE_OF_MAP_FROM_LOCATION = 2.5
 EARTH_RADIUS_IN_MILES = 3959.0
 
 # Global Variables
+apiKey = input('Enter your google API key: ')
 df = pd.read_csv('SeattleAddressess.csv', delimiter = ',', quotechar = "'")
-googleMapsAPIKey = googlemaps.Client(key = 'AIzaSyB9U3xQQfCIgZqIlySxt_R07cCVOcnygl0')
+googleMapsAPIKey = googlemaps.Client(key = apiKey)
 mapOfSeattle = None
 fileNameForTable = 'Locations.txt'
 fileNameForMatrix = 'Distances.csv'
