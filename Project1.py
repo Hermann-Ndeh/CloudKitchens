@@ -4,18 +4,15 @@ __author__ = Sharon Gilman
 __author__ = Virginia Jackson
 '''
 import csv
+from math import atan2, cos, pi, radians, sin, sqrt
 import numpy as np
 import pandas as pd
 from mpl_toolkits.basemap import Basemap
-from math import *
-import random
 import googlemaps
 import matplotlib.pyplot as plt
 from tabulate import tabulate
-from scipy.spatial.distance import euclidean
-from pulp import *
-from scipy.sparse import *
-from networkx import *
+from pulp import LpProblem, LpMinimize, LpVariable, LpBinary, lpSum
+from scipy.sparse import csr_matrix, save_npz
 
 # Constants
 EDGE_OF_MAP_FROM_LOCATION = 2.5
@@ -115,10 +112,10 @@ def findEastLocation(coordinates):
     if not coordinates:
         return None
     eastLoc = None
-    max_longitude = float('-inf')
+    maxLongitude = float('-inf')
     for lat, lon in coordinates:
-        if lon > max_longitude:
-            max_longitude = lon
+        if lon > maxLongitude:
+            maxLongitude = lon
             eastLoc = (lat, lon)
     return eastLoc
 
@@ -134,10 +131,10 @@ def findNorthLocation(coordinates):
     if not coordinates:
         return None
     northLoc = None
-    max_latitude = float('-inf')
+    maxLatitude = float('-inf')
     for lat, lon in coordinates:
-        if lat > max_latitude:
-            max_latitude = lat
+        if lat > maxLatitude:
+            maxLatitude = lat
             northLoc = (lat, lon)
     return northLoc
 
@@ -152,10 +149,10 @@ def findSouthLocation(coordinates):
     if not coordinates:
         return None
     southLoc = None
-    min_latitude = float('inf')
+    minLatitude = float('inf')
     for lat, lon in coordinates:
-        if lat < min_latitude:
-            min_latitude = lat
+        if lat < minLatitude:
+            minLatitude = lat
             southLoc = (lat, lon)
     return southLoc
 
@@ -171,16 +168,16 @@ def findWestLocation(coordinates):
     if not coordinates:
         return None
     westLoc = None
-    min_longitude = float('inf')
+    minLongitude = float('inf')
     for lat, lon in coordinates:
-        if lon < min_longitude:
-            min_longitude = lon
+        if lon < minLongitude:
+            minLongitude = lon
             westLoc = (lat, lon)
     return westLoc
 
 def createBaseMap(extremeLocations):
     """
-    The function creates a basemap object using the given extreme locations.
+    The function creates a basemap object for a given set of extreme locations.
     
     :param extremeLocations: The `extremeLocations` parameter is a list containing the latitude and
     longitude values of the extreme points of the map. The list should have the following format:
@@ -198,21 +195,22 @@ def createBaseMap(extremeLocations):
     )
     return cityMap
 
-def drawAndPlotMap(map_of_seattle):
+def drawAndPlotMap(mapOfSeattle):
     """
-    The function "drawAndPlotMap" takes a map of Seattle and plots the locations of cloud kitchens and
-    random service stations on the map.
+    The function "drawAndPlotMap" takes a map object of Seattle and plots the locations of cloud
+    kitchens and service stations on the map.
     
-    :param map_of_seattle: The parameter "map_of_seattle" is a map object that represents the map of
-    Seattle. It is used to draw the coastlines, countries, and states on the map
+    :param mapOfSeattle: The parameter `mapOfSeattle` is an instance of the Basemap class, which
+    represents a map of the city of Seattle. It is used to draw the coastlines, countries, and states on
+    the map
     """
-    map_of_seattle.drawcoastlines()
-    map_of_seattle.drawcountries()
-    map_of_seattle.drawstates()
-    x, y = map_of_seattle(cloudKitchenLongitudes, cloudKitchenLatitudes)
-    a, b = map_of_seattle(serviceStationLongitudes, serviceStationLatitudes)
-    map_of_seattle.scatter(x, y, marker = '.', color = '#41BE1A', label = 'Cloud Kitchens')
-    map_of_seattle.scatter(a, b, marker = '.', color = 'blue', label = 'Service Locations')
+    mapOfSeattle.drawcoastlines()
+    mapOfSeattle.drawcountries()
+    mapOfSeattle.drawstates()
+    x, y = mapOfSeattle(cloudKitchenLongitudes, cloudKitchenLatitudes)
+    a, b = mapOfSeattle(serviceStationLongitudes, serviceStationLatitudes)
+    mapOfSeattle.scatter(x, y, marker = '.', color = '#41BE1A', label = 'Cloud Kitchens')
+    mapOfSeattle.scatter(a, b, marker = '.', color = 'blue', label = 'Service Locations')
 
 def generateServiceStations():
     """
@@ -345,63 +343,84 @@ def taskII(distanceMatrix):
 
 def taskIII(distanceMatrix, zij):
     """
-    The function `taskIII` takes a distance matrix and a binary matrix as input, and generates an
-    origin-destination table based on the binary matrix, calculates the frequency of distances in
-    different ranges, and plots a bar graph of the frequency values.
+    The function `taskIII` takes a distance matrix and a binary decision variable matrix as inputs, and
+    generates an origin-destination table, plots the routes on a map, and creates a frequency graph
+    based on the distances.
     
-    :param distanceMatrix: The distanceMatrix is a 2D array that represents the distances between cloud
-    kitchens and service stations. Each element in the array represents the distance between a cloud
-    kitchen and a service station
+    :param distanceMatrix: The distanceMatrix parameter is a matrix that represents the distances
+    between cloud kitchens and service stations. It is a 2D array where each element represents the
+    distance between a cloud kitchen and a service station
     :param zij: The parameter "zij" is a binary decision variable matrix that represents the assignment
-    of cloud kitchens to service stations. It is a matrix of size (n x m), where n is the number of
-    cloud kitchens and m is the number of service stations. Each element zij[i][j] is a
-    :return: the origin-destination table, which is a list of dictionaries containing information about
-    the cloud kitchens, service stations, and the distance between them.
+    of cloud kitchens to service stations. It is a 2D matrix where each element zij[i][j] is a binary
+    variable that indicates whether cloud kitchen i is assigned to service station j
+    :return: the `odTable`, which is a list of dictionaries containing information about the origin,
+    destination, and distance for each pair of cloud kitchens and service stations where `zij` is equal
+    to 1.
     """
-    od_table = []
-    od_dict = {}
+    odTable = []
+    odDictionary = {}
     distanceIndex = 0
 
     for i in range(len(cloudKitchens)):
         for j in range(len(serviceStations)):
             if zij[i][j].value() == 1:
-                od_table.append({cloudKitchens[i]['Index']: i + 1, 
-                                 serviceStations[j]['Index']: j + 1, 
+                odTable.append({cloudKitchens[i]['Index']: i + 1, 
+                                 serviceStations[j]['Index']: j + 1,
                                  f"Distance {distanceIndex}": distanceMatrix[i][j]})
-                od_dict[cloudKitchens[i]['Index']] = i + 1
-                od_dict[serviceStations[j]['Index']] = j + 1
-                od_dict[f"Distance {distanceIndex}"] = distanceMatrix[i][j]
+                odDictionary[cloudKitchens[i]['Index']] = i + 1
+                odDictionary[serviceStations[j]['Index']] = j + 1
+                odDictionary[f"Distance {distanceIndex}"] = distanceMatrix[i][j]
                 distanceIndex += 1
     
-    short_range = (0,3)
-    medium_range = (3,6)
-    long_range = (6,float("inf"))
+    mapOfSeattle = createBaseMap(edgeOfMapCoordinates)
+    drawAndPlotMap(mapOfSeattle)
+    for pair in odTable:
+        origin = None
+        destination = None
+        for i in range(len(pair)):
+            for j in range(len(cloudKitchens)):
+                if cloudKitchens[j]['Index'] == list(pair.keys())[0]:
+                    origin = cloudKitchens[j]['Coordinates']
+            for k in range(len(serviceStations)):
+                if serviceStations[k]['Index'] == list(pair.keys())[1]:
+                    destination = serviceStations[k]['Coordinates']
 
-    short_freq = 0
-    medium_freq = 0
-    long_freq = 0
+        if origin is not None and destination is not None:
+            xOrigin, yOrigin = mapOfSeattle(origin[1], origin[0])
+            xDestination, yDestination = mapOfSeattle(destination[1], destination[0])
+            mapOfSeattle.plot([xOrigin, xDestination], [yOrigin, yDestination], color='blue', linewidth=1)
+    plt.savefig('Solution.jpg', format='jpeg', dpi=300)
+    plt.close()
+    
+    shortRange = (0,3)
+    mediumRange = (3,6)
+    longRange = (6,float("inf"))
+
+    shortFrequency = 0
+    mediumFrequency = 0
+    longFrequency = 0
     distanceIndex = 0
 
-    for key, value in od_dict.items():
+    for key, value in odDictionary.items():
       if key == f"Distance {distanceIndex}":
-        if short_range[0] <= value < short_range[1]:
-          short_freq += 1
-        if medium_range[0] <= value < medium_range[1]:
-            medium_freq += 1
-        if long_range[0] <= value < long_range[1]:
-            long_freq += 1
+        if shortRange[0] <= value < shortRange[1]:
+          shortFrequency += 1
+        if mediumRange[0] <= value < mediumRange[1]:
+            mediumFrequency += 1
+        if longRange[0] <= value < longRange[1]:
+            longFrequency += 1
         distanceIndex += 1
     
-    dist_ranges = ["< 3 miles", "3-6 miles", "> 6 miles"]
-    freq_values = [short_freq, medium_freq, long_freq]
+    distanceRanges = ["< 3 miles", "3-6 miles", "> 6 miles"]
+    frequencyValues = [shortFrequency, mediumFrequency, longFrequency]
 
-    plt.bar(dist_ranges,freq_values)
+    plt.bar(distanceRanges,frequencyValues)
     plt.xlabel("Distance Ranges (miles)")
     plt.ylabel("Frequency Values")
     plt.title("Frequency Graph of Origin-Destination Table")
     plt.savefig('Frequency.jpg', format = 'jpeg', dpi = 300)
 
-    return od_table
+    return odTable
 
 def main():
     """
@@ -467,7 +486,7 @@ def main():
     plt.title('Cloud Kitchen Locations')
     plt.legend(loc = 'best')
     plt.savefig('Locations.jpg', format = 'jpeg', dpi = 300)
-    plt.close()
+    # plt.close()
 
     distanceMatrix = distance(cloudKitchens, serviceStations)
     zij, solutionMatrix = taskII(distanceMatrix)
