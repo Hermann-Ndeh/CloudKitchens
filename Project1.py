@@ -45,172 +45,174 @@ coordinatePointW = ()
 coordinatePointE = ()
 coordinatePointS = ()
 
-# Functions
-def createWestPoint(coordinates, distance):
-    """
-    The function "createWestPoint" takes in a set of coordinates and a distance, and returns the
-    longitude of a point that is west of the given coordinates by the specified distance.
-    
-    :param coordinates: The `coordinates` parameter is a tuple containing the latitude and longitude of
-    a location
-    :param distance: The distance parameter represents the distance in miles from the given coordinates
-    to the desired location, in this case, West Point
-    :return: the longitude of the edge of the map, calculated by subtracting the distance divided by
-    69.1 from the given longitude.
-    """
-    latitude, longitude = coordinates
-    return edgeOfMapCoordinates.append(longitude - distance / 69.1)
+class createEdgePoints:
+    def createWestPoint(coordinates, distance):
+        """
+        The function "createWestPoint" takes in a set of coordinates and a distance, and returns the
+        longitude of a point that is west of the given coordinates by the specified distance.
+        
+        :param coordinates: The `coordinates` parameter is a tuple containing the latitude and longitude of
+        a location
+        :param distance: The distance parameter represents the distance in miles from the given coordinates
+        to the desired location, in this case, West Point
+        :return: the longitude of the edge of the map, calculated by subtracting the distance divided by
+        69.1 from the given longitude.
+        """
+        latitude, longitude = coordinates
+        return edgeOfMapCoordinates.append(longitude - distance / 69.1)
 
-def createNorthPoint(coordinates, distance):
-    """
-    The function `createNorthPoint` calculates the latitude of a point that is a certain distance north
-    of a given coordinate.
-    
-    :param coordinates: The coordinates parameter is a tuple containing the latitude and longitude
-    values of a location
-    :param distance: The distance parameter represents the distance in miles from the given coordinates
-    to the desired point
-    :return: the updated list `edgeOfMapCoordinates` after appending the calculated latitude value.
-    """
-    latitude, longitude = coordinates
-    return edgeOfMapCoordinates.append(latitude + (distance / EARTH_RADIUS_IN_MILES * (180 / pi)))
+    def createNorthPoint(coordinates, distance):
+        """
+        The function `createNorthPoint` calculates the latitude of a point that is a certain distance north
+        of a given coordinate.
+        
+        :param coordinates: The coordinates parameter is a tuple containing the latitude and longitude
+        values of a location
+        :param distance: The distance parameter represents the distance in miles from the given coordinates
+        to the desired point
+        :return: the updated list `edgeOfMapCoordinates` after appending the calculated latitude value.
+        """
+        latitude, longitude = coordinates
+        return edgeOfMapCoordinates.append(latitude + (distance / EARTH_RADIUS_IN_MILES * (180 / pi)))
 
-def createSouthPoint(coordinates, distance):
-    """
-    The function `createSouthPoint` calculates the latitude of a point that is a given distance south of
-    a given coordinate.
-    
-    :param coordinates: The coordinates parameter is a tuple containing the latitude and longitude
-    values of a location
-    :param distance: The distance parameter represents the distance in miles from the given coordinates
-    to the southernmost point on the map
-    :return: the updated list `edgeOfMapCoordinates` after appending a new latitude value.
-    """
-    latitude, longitude = coordinates
-    return edgeOfMapCoordinates.append(latitude - (distance / EARTH_RADIUS_IN_MILES * (180 / pi)))
+    def createSouthPoint(coordinates, distance):
+        """
+        The function `createSouthPoint` calculates the latitude of a point that is a given distance south of
+        a given coordinate.
+        
+        :param coordinates: The coordinates parameter is a tuple containing the latitude and longitude
+        values of a location
+        :param distance: The distance parameter represents the distance in miles from the given coordinates
+        to the southernmost point on the map
+        :return: the updated list `edgeOfMapCoordinates` after appending a new latitude value.
+        """
+        latitude, longitude = coordinates
+        return edgeOfMapCoordinates.append(latitude - (distance / EARTH_RADIUS_IN_MILES * (180 / pi)))
 
-def createEastPoint(coordinates, distance):
-    """
-    The function `createEastPoint` takes in a set of coordinates and a distance, and returns the
-    longitude of a point that is `distance` miles east of the given coordinates.
+    def createEastPoint(coordinates, distance):
+        """
+        The function `createEastPoint` takes in a set of coordinates and a distance, and returns the
+        longitude of a point that is `distance` miles east of the given coordinates.
+        
+        :param coordinates: The `coordinates` parameter is a tuple containing the latitude and longitude
+        values of a point on a map
+        :param distance: The distance parameter represents the distance in miles from the given coordinates
+        :return: the updated list `edgeOfMapCoordinates` after appending the calculated longitude value.
+        """
+        latitude, longitude = coordinates
+        return edgeOfMapCoordinates.append(longitude + distance / 69.1)
     
-    :param coordinates: The `coordinates` parameter is a tuple containing the latitude and longitude
-    values of a point on a map
-    :param distance: The distance parameter represents the distance in miles from the given coordinates
-    :return: the updated list `edgeOfMapCoordinates` after appending the calculated longitude value.
-    """
-    latitude, longitude = coordinates
-    return edgeOfMapCoordinates.append(longitude + distance / 69.1)
+class findFurthestPlotPoints:
+    def findEastLocation(coordinates):
+        """
+        The function finds the easternmost location from a list of coordinates.
+        
+        :param coordinates: A list of tuples representing latitude and longitude coordinates
+        :return: the coordinates of the easternmost location.
+        """
+        if not coordinates:
+            return None
+        eastLoc = None
+        maxLongitude = float('-inf')
+        for lat, lon in coordinates:
+            if lon > maxLongitude:
+                maxLongitude = lon
+                eastLoc = (lat, lon)
+        return eastLoc
 
-def findEastLocation(coordinates):
-    """
-    The function finds the easternmost location from a list of coordinates.
-    
-    :param coordinates: A list of tuples representing latitude and longitude coordinates
-    :return: the coordinates of the easternmost location.
-    """
-    if not coordinates:
-        return None
-    eastLoc = None
-    maxLongitude = float('-inf')
-    for lat, lon in coordinates:
-        if lon > maxLongitude:
-            maxLongitude = lon
-            eastLoc = (lat, lon)
-    return eastLoc
+    def findNorthLocation(coordinates):
+        """
+        The function findNorthLocation takes a list of coordinates and returns the coordinate with the
+        highest latitude, representing the northernmost location.
+        
+        :param coordinates: A list of tuples representing coordinates. Each tuple contains a latitude and
+        longitude value
+        :return: the coordinates of the northernmost location from the given list of coordinates.
+        """
+        if not coordinates:
+            return None
+        northLoc = None
+        maxLatitude = float('-inf')
+        for lat, lon in coordinates:
+            if lat > maxLatitude:
+                maxLatitude = lat
+                northLoc = (lat, lon)
+        return northLoc
 
-def findNorthLocation(coordinates):
-    """
-    The function findNorthLocation takes a list of coordinates and returns the coordinate with the
-    highest latitude, representing the northernmost location.
-    
-    :param coordinates: A list of tuples representing coordinates. Each tuple contains a latitude and
-    longitude value
-    :return: the coordinates of the northernmost location from the given list of coordinates.
-    """
-    if not coordinates:
-        return None
-    northLoc = None
-    maxLatitude = float('-inf')
-    for lat, lon in coordinates:
-        if lat > maxLatitude:
-            maxLatitude = lat
-            northLoc = (lat, lon)
-    return northLoc
+    def findSouthLocation(coordinates):
+        """
+        The function `findSouthLocation` takes a list of coordinates and returns the southernmost location.
+        
+        :param coordinates: A list of tuples representing latitude and longitude coordinates. Each tuple
+        contains two elements: the latitude and longitude values
+        :return: the southernmost location from the given coordinates.
+        """
+        if not coordinates:
+            return None
+        southLoc = None
+        minLatitude = float('inf')
+        for lat, lon in coordinates:
+            if lat < minLatitude:
+                minLatitude = lat
+                southLoc = (lat, lon)
+        return southLoc
 
-def findSouthLocation(coordinates):
-    """
-    The function `findSouthLocation` takes a list of coordinates and returns the southernmost location.
-    
-    :param coordinates: A list of tuples representing latitude and longitude coordinates. Each tuple
-    contains two elements: the latitude and longitude values
-    :return: the southernmost location from the given coordinates.
-    """
-    if not coordinates:
-        return None
-    southLoc = None
-    minLatitude = float('inf')
-    for lat, lon in coordinates:
-        if lat < minLatitude:
-            minLatitude = lat
-            southLoc = (lat, lon)
-    return southLoc
+    def findWestLocation(coordinates):
+        """
+        The function `findWestLocation` takes a list of coordinates and returns the coordinate with the
+        smallest longitude, representing the westernmost location.
+        
+        :param coordinates: A list of tuples representing latitude and longitude coordinates. Each tuple
+        contains two elements: the latitude and the longitude
+        :return: the coordinates of the westernmost location.
+        """
+        if not coordinates:
+            return None
+        westLoc = None
+        minLongitude = float('inf')
+        for lat, lon in coordinates:
+            if lon < minLongitude:
+                minLongitude = lon
+                westLoc = (lat, lon)
+        return westLoc
 
-def findWestLocation(coordinates):
-    """
-    The function `findWestLocation` takes a list of coordinates and returns the coordinate with the
-    smallest longitude, representing the westernmost location.
-    
-    :param coordinates: A list of tuples representing latitude and longitude coordinates. Each tuple
-    contains two elements: the latitude and the longitude
-    :return: the coordinates of the westernmost location.
-    """
-    if not coordinates:
-        return None
-    westLoc = None
-    minLongitude = float('inf')
-    for lat, lon in coordinates:
-        if lon < minLongitude:
-            minLongitude = lon
-            westLoc = (lat, lon)
-    return westLoc
+class mapCreation:
+    def createBaseMap(extremeLocations):
+        """
+        The function creates a basemap object for a given set of extreme locations.
+        
+        :param extremeLocations: The `extremeLocations` parameter is a list containing the latitude and
+        longitude values of the extreme points of the map. The list should have the following format:
+        `[min_latitude, max_latitude, min_longitude, max_longitude]`. These values define the boundaries of
+        the map
+        :return: a Basemap object.
+        """
+        cityMap = Basemap(
+            projection = 'merc',
+            llcrnrlat = extremeLocations[0],
+            urcrnrlat = extremeLocations[1],
+            llcrnrlon = extremeLocations[2],
+            urcrnrlon = extremeLocations[3],
+            resolution = 'h'
+        )
+        return cityMap
 
-def createBaseMap(extremeLocations):
-    """
-    The function creates a basemap object for a given set of extreme locations.
-    
-    :param extremeLocations: The `extremeLocations` parameter is a list containing the latitude and
-    longitude values of the extreme points of the map. The list should have the following format:
-    `[min_latitude, max_latitude, min_longitude, max_longitude]`. These values define the boundaries of
-    the map
-    :return: a Basemap object.
-    """
-    cityMap = Basemap(
-        projection = 'merc',
-        llcrnrlat = extremeLocations[0],
-        urcrnrlat = extremeLocations[1],
-        llcrnrlon = extremeLocations[2],
-        urcrnrlon = extremeLocations[3],
-        resolution = 'h'
-    )
-    return cityMap
-
-def drawAndPlotMap(mapOfSeattle):
-    """
-    The function "drawAndPlotMap" takes a map object of Seattle and plots the locations of cloud
-    kitchens and service stations on the map.
-    
-    :param mapOfSeattle: The parameter `mapOfSeattle` is an instance of the Basemap class, which
-    represents a map of the city of Seattle. It is used to draw the coastlines, countries, and states on
-    the map
-    """
-    mapOfSeattle.drawcoastlines()
-    mapOfSeattle.drawcountries()
-    mapOfSeattle.drawstates()
-    x, y = mapOfSeattle(cloudKitchenLongitudes, cloudKitchenLatitudes)
-    a, b = mapOfSeattle(serviceStationLongitudes, serviceStationLatitudes)
-    mapOfSeattle.scatter(x, y, marker = '.', color = '#41BE1A', label = 'Cloud Kitchens')
-    mapOfSeattle.scatter(a, b, marker = '.', color = 'blue', label = 'Service Locations')
+    def drawAndPlotMap(mapOfSeattle):
+        """
+        The function "drawAndPlotMap" takes a map object of Seattle and plots the locations of cloud
+        kitchens and service stations on the map.
+        
+        :param mapOfSeattle: The parameter `mapOfSeattle` is an instance of the Basemap class, which
+        represents a map of the city of Seattle. It is used to draw the coastlines, countries, and states on
+        the map
+        """
+        mapOfSeattle.drawcoastlines()
+        mapOfSeattle.drawcountries()
+        mapOfSeattle.drawstates()
+        x, y = mapOfSeattle(cloudKitchenLongitudes, cloudKitchenLatitudes)
+        a, b = mapOfSeattle(serviceStationLongitudes, serviceStationLatitudes)
+        mapOfSeattle.scatter(x, y, marker = '.', color = '#41BE1A', label = 'Cloud Kitchens')
+        mapOfSeattle.scatter(a, b, marker = '.', color = 'blue', label = 'Service Locations')
 
 def generateServiceStations():
     """
@@ -372,8 +374,8 @@ def taskIII(distanceMatrix, zij):
                 odDictionary[f"Distance {distanceIndex}"] = distanceMatrix[i][j]
                 distanceIndex += 1
     
-    mapOfSeattle = createBaseMap(edgeOfMapCoordinates)
-    drawAndPlotMap(mapOfSeattle)
+    mapOfSeattle = mapCreation.createBaseMap(edgeOfMapCoordinates)
+    mapCreation.drawAndPlotMap(mapOfSeattle)
     for pair in odTable:
         origin = None
         destination = None
@@ -438,18 +440,18 @@ def main():
     addressesToLocations()
     getAddresses()
     getZipCodes()
-    coordinatePointS = findSouthLocation(cloudKitchenCoordinates)
-    createSouthPoint(coordinatePointS, EDGE_OF_MAP_FROM_LOCATION)
-    coordinatePointN = findNorthLocation(cloudKitchenCoordinates)
-    createNorthPoint(coordinatePointN, EDGE_OF_MAP_FROM_LOCATION)
-    coordinatePointE = findEastLocation(cloudKitchenCoordinates)
-    createEastPoint(coordinatePointE, EDGE_OF_MAP_FROM_LOCATION)
-    coordinatePointW = findWestLocation(cloudKitchenCoordinates)
-    createWestPoint(coordinatePointW, EDGE_OF_MAP_FROM_LOCATION)
+    coordinatePointS = findFurthestPlotPoints.findSouthLocation(cloudKitchenCoordinates)
+    createEdgePoints.createSouthPoint(coordinatePointS, EDGE_OF_MAP_FROM_LOCATION)
+    coordinatePointN = findFurthestPlotPoints.findNorthLocation(cloudKitchenCoordinates)
+    createEdgePoints.createNorthPoint(coordinatePointN, EDGE_OF_MAP_FROM_LOCATION)
+    coordinatePointE = findFurthestPlotPoints.findEastLocation(cloudKitchenCoordinates)
+    createEdgePoints.createEastPoint(coordinatePointE, EDGE_OF_MAP_FROM_LOCATION)
+    coordinatePointW = findFurthestPlotPoints.findWestLocation(cloudKitchenCoordinates)
+    createEdgePoints.createWestPoint(coordinatePointW, EDGE_OF_MAP_FROM_LOCATION)
     generateServiceStations()
     serviceStationLatitudes = [coord[0] for coord in serviceStationCoordinates]
     serviceStationLongitudes = [coord[1] for coord in serviceStationCoordinates]
-    drawAndPlotMap(createBaseMap(edgeOfMapCoordinates))
+    mapCreation.drawAndPlotMap(mapCreation.createBaseMap(edgeOfMapCoordinates))
 
     for i in range(len(cloudKitchenAddresses)):
         cloudKitchens.append({
