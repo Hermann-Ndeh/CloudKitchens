@@ -4,15 +4,15 @@ __author__ = Sharon Gilman
 __author__ = Virginia Jackson
 '''
 import csv
-from math import atan2, cos, pi, radians, sin, sqrt
+import googlemaps
 import numpy as np
 import pandas as pd
-from mpl_toolkits.basemap import Basemap
-import googlemaps
 import matplotlib.pyplot as plt
 from tabulate import tabulate
-from pulp import LpProblem, LpMinimize, LpVariable, LpBinary, lpSum
+from mpl_toolkits.basemap import Basemap
 from scipy.sparse import csr_matrix, save_npz
+from math import pi, atan2, cos, radians, sin, sqrt
+from pulp import LpProblem, LpVariable, LpMinimize, LpBinary, lpSum
 
 # Constants
 EDGE_OF_MAP_FROM_LOCATION = 2.5
