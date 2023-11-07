@@ -394,7 +394,7 @@ def taskIII(distanceMatrix, zij):
         if origin is not None and destination is not None:
             xOrigin, yOrigin = mapOfSeattle(origin[1], origin[0])
             xDestination, yDestination = mapOfSeattle(destination[1], destination[0])
-            mapOfSeattle.plot([xOrigin, xDestination], [yOrigin, yDestination], color='blue', linewidth=1)
+            mapOfSeattle.plot([xOrigin, xDestination], [yOrigin, yDestination], color = 'blue', linewidth=1)
     plt.savefig('Solution.jpg', format='jpeg', dpi=300)
     plt.close()
     
